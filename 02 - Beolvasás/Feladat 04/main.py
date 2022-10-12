@@ -1,11 +1,12 @@
 from os import system
 
 nev: str = None
-gomb: bool = None
+gomb: str = None
 
 print("Kérem a nevét: ")
 nev = str(input())
 
-print("nyomjon le egy gombot  a billentyűzeten!")
-gomb = bool(input())
+print("Nyomjon le egy gombot  a billentyűzeten!")
+gomb = str(input())
 
+print(f"Ön, {nev}, a {gomb} billentyűt nyomta meg.")
