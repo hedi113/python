@@ -11,3 +11,5 @@ if szam1 > szam2:
     print(f"{szam2},{szam1}")
 elif szam2 > szam1:
     print(f"{szam1},{szam2}")
+else:
+    print("A két szám egyenlő.")
