@@ -1,24 +1,24 @@
 szam1: int = None
 szam2: int = None
 muvelet: str = None
+eredmeny: float = None
 
 print("Kérem a két számot és a műveletet: ")
 szam1 = int(input())
 szam2 = int(input())
-muvelet = str(input())
+muvelet = str(input()).strip()
 
 match muvelet:
     case "+":
         eredmeny = szam1 + szam2
-        print(f"A két szám összege: {eredmeny}")
     case "*":
-        eredmeny2 = szam1 * szam2
-        print(f"A két szám szorzatának eredménye: {eredmeny2}")
+        eredmeny = szam1 * szam2
     case "-":
-        eredmeny3 = szam1 - szam2
-        print(f"A két szám külömbsége: {eredmeny3}")
+        eredmeny = szam1 - szam2
     case "/":
-        eredmeny4 = szam1 / szam2
-        print(f"A két szám hányadosa: {eredmeny4}")
+        eredmeny = szam1 / szam2
     case _:
         print("A megadott művelet nem végezhető el.")
+
+if(eredmeny != None):
+    print(f"{szam1} {muvelet} {szam2} = {eredmeny}")

@@ -1,6 +1,6 @@
 month: str = None
 
-month = input("Milyen hónap van?")
+month = input("Milyen hónap van?").lower().strip()
 
 match month:
     case "január":
