@@ -13,11 +13,12 @@ for i in range(kezdoertek, vegertek, 1):
     if(i % 2 == 0):
         osszeg = osszeg + i
 
-print(osszeg)
-
-osszeg2 = vegertek
+osszeg2 = 0
 for i in range(kezdoertek, vegertek, 1):
     if(i % 2 == 1):
-        osszeg2 = osszeg * i
+        osszeg2 = osszeg2 + i
 
-print(osszeg2)
+if(osszeg > osszeg2):
+    print("A páros számok összege a nagyobb.")
+elif(osszeg2 > osszeg):
+    print("A páratlan számok összege a nagyobb.")

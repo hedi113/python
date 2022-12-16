@@ -8,6 +8,8 @@ print("Kérem a végső értéket: ", end = "")
 vegertek = int(input())
 
 osszeg = 0
-for i in range(kezdoertek, vegertek):
+for i in range(kezdoertek, vegertek, 1):
         osszeg = osszeg + i
-        print(osszeg)
+        
+        
+print(osszeg)
