@@ -1,14 +1,9 @@
-name: str = "hodi rovo hedi"
-myName: str = None
+myName: str = ""
 
-while(myName != name):
+while(len(myName) < 2):
     print("Kérem a nevét: ", end="")
-    myName = input()
+    myName = str(input())
 
-
-    if(name == str(myName)):
-        print("Üdvözlöm!")
-    else:
-        print("Nem a nevét adta meg!")
+print(f"Üdvözlöm! {myName}")
 
 

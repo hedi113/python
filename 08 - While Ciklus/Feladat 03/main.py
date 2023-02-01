@@ -4,9 +4,9 @@ rnd: int = random.randint(0 , 9)
 number: int = None
 db = 0
 
-while (number != rnd):
+while (number != rnd and db < 5):
     print("Adjon meg egy számot 0 és 9 között: ", end="")
-    number = input()
+    number = int(input())
 
     
     if(number == rnd):
@@ -14,10 +14,6 @@ while (number != rnd):
 
     else: 
         db = db + 1
-
-    if(db == 5):
-        print("Kifutott a próbálkozási lehetőségekből!")
-        break
 
 
 
