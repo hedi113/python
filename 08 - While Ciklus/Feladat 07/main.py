@@ -1,12 +1,29 @@
 smaller: int = None
-larger: int = 0
+larger: int = None
+isNumber: bool = False
+temp: str = None
 
-print("Adja meg az első számot: ", end="")
-smaller = int(input())
+while(smaller == None):
+    print("Adja meg az első számot: ", end="")
+    temp = input()
+    isNumber = temp.isnumeric()
 
-while(smaller > larger):
+    if(isNumber):
+        smaller = int(temp)
+    else: 
+        print("Nem számot adott meg!")
+
+while(larger == None or larger < smaller):
     print("Adja meg a második számot (az előzőnél legyen nagyobb): ", end="")
-    larger = int(input())
+    temp = input()
+    isNumber = temp.isnumeric()
 
-for i in range(smaller, larger, -1):
+    if(isNumber):
+        larger = int(temp)
+    else: 
+        print("Nem számot adott meg!")
+
+
+
+for i in range(larger, smaller, -1):
     print(i)
