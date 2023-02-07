@@ -12,7 +12,7 @@ while(number == None):
     else: 
         print("Nem számot adott meg!!!!")
 
-    match number:
+match number:
         case 1:
             print("Az első üdítőt választotta.")
         case 2:
