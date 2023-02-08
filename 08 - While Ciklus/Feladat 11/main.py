@@ -5,6 +5,8 @@ paratlan: int = None
 tempparos: str = None
 tempparatlan: str = None
 isNumber: bool = False
+atlag: float = 0
+divide4Db: int = None
 
 while(paros == None or (paros % 2 == 1)):
     print("Adjon meg egy páros számot: ", end = "")
@@ -29,5 +31,20 @@ while(paratlan == None or (paratlan < paros)):
 
 rnd: int = random.randint(paros, paratlan)
 
-if((paros - rnd)>(paratlan - rnd)):
-    print(f"A random szám ({rnd}) {paros}-hoz van közelebb.")
+if((paros - rnd)<(paratlan - rnd)):
+    print(f"A random szám ({rnd}) {paros}-tól/től van messzebb.")
+else:
+    print(f"A random szám ({rnd}) {paratlan}-tól/től van messzebb.")
+
+
+db = 0
+db2 = 0
+for i in range(paros, paratlan, 1):
+    db = db + 1
+    atlag = (atlag + i) / db
+    if(i % 4 == 0):
+        db2 = db2 + 1
+print(f"A számok közti átlag: {atlag}")
+print(f"A 4-gyel osztható számok (db): {db2}", end="")
+
+

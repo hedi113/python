@@ -1,0 +1,1 @@
+megtakaritas: int = None
