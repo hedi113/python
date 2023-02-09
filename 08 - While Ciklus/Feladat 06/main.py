@@ -1,8 +1,16 @@
 age: int = 0
+temp: str = None
+isNumber: bool = False
 
 while(age <= 0 or age > 99):
     print("Adja meg az életkorát (0-99): ", end="")
-    age = int(input())
+    temp = input()
+    isNumber = temp.isnumeric()
+
+    if(isNumber):
+        age = int(temp)
+    else: 
+        print("Nem egy életkort adott meg!")
 
 if(age >= 0 and age <=6):
     print("Korosztály: gyerek")
