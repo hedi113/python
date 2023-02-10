@@ -18,7 +18,7 @@ while(paros == None or (paros % 2 == 1)):
     else:
         ("Nem páros számot adott meg!")
 
-while(paratlan == None or (paratlan < paros)):
+while(paratlan == None or (paratlan < paros) or paratlan % 2 == 0):
     print("Adjon meg egy az előzőtől nagyobb páratlan számot: ", end="")
     tempparatlan = input()
     isNumber = tempparatlan.isnumeric()
@@ -31,7 +31,7 @@ while(paratlan == None or (paratlan < paros)):
 
 rnd: int = random.randint(paros, paratlan)
 
-if((paros - rnd)<(paratlan - rnd)):
+if((paratlan - paros) < rnd):
     print(f"A random szám ({rnd}) {paros}-tól/től van messzebb.")
 else:
     print(f"A random szám ({rnd}) {paratlan}-tól/től van messzebb.")
