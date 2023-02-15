@@ -10,23 +10,19 @@ while(megtakaritas == None or megtakaritas < 0 or megtakaritas > 100000):
     if(isNumber):
         megtakaritas = int(temp)
     else:
-        print("Nem pénzösszeget adott meg, vagy az már eleve meghaladja a 100 000 Ft-ot!")
+        print("Nem pénzösszeget adott meg!")
     
     
-month = 0
+honap = 0
 kamat = megtakaritas * 0.02
-vegosszeg = 100000
-megtakaritkamat = megtakaritas + kamat
-veges = 0
-
 
 while(megtakaritas < 100000):
     megtakaritas = megtakaritas + kamat
     if(megtakaritas):
-        month = month + 1
+        honap = honap + 1
 
 
-print(f"A megtakarított összeg {month} hónap alatt érte el a 100 000 Ft értéket.")
+print(f"A megtakarított összeg {honap} hónap alatt érte el a 100 000 Ft értéket.")
 
 
 

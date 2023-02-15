@@ -6,7 +6,6 @@ tempparos: str = None
 tempparatlan: str = None
 isNumber: bool = False
 atlag: float = 0
-divide4Db: int = None
 
 while(paros == None or (paros % 2 == 1)):
     print("Adjon meg egy páros számot: ", end = "")

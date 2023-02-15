@@ -18,7 +18,7 @@ while (number != rnd and db < 5):
 
     
     if(number == rnd):
-        print(f"A random generált szám az {rnd} volt. Gratulálok!")
+        print(f"A random generált szám a {rnd} volt. Gratulálok!")
 
     else: 
         db = db + 1
