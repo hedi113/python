@@ -15,13 +15,13 @@ while (number != rnd and db < 5):
         number = int(temp)
     else: 
         print("Nem számot adott meg!!!!")
+    
+    db = db + 1
 
     
-    if(number == rnd):
-        print(f"A random generált szám a {rnd} volt. Gratulálok!")
+if(number == rnd):
+    print(f"A random generált szám a {rnd} volt. Gratulálok!")
 
-    else: 
-        db = db + 1
 
 
 

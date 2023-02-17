@@ -1,7 +1,6 @@
 number: int = 0
 final: int = 0
 temp: str = None
-temp2: str = None
 isNumber: bool = False
 
 szum = 0
@@ -19,11 +18,11 @@ while(final < 100):
 
 while(szum < final):
     print("Adjon meg egy számot: ", end="")
-    temp2 = input()
-    isNumber = temp2.isnumeric()
+    temp = input()
+    isNumber = temp.isnumeric()
 
     if(isNumber):
-        number = int(temp2)
+        number = int(temp)
     else: 
         print("Nem számot adott meg!!")
 

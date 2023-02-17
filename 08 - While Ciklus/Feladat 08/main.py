@@ -13,12 +13,12 @@ while(number == None):
         print("Nem számot adott meg!!!!")
 
 match number:
-        case 1:
-            print("Az első üdítőt választotta.")
-        case 2:
-            print("A második üdítőt választotta.")
-        case 3:
-            print("A harmadik üdítőt választotta.")
-        case "_":
-            print("A megadott szám nem szerepel a listán!")
+    case 1:
+        print("Az első üdítőt választotta.")
+    case 2:
+        print("A második üdítőt választotta.")
+    case 3:
+        print("A harmadik üdítőt választotta.")
+    case "_":
+        print("A megadott szám nem szerepel a listán!")
     

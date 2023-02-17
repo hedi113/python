@@ -1,11 +1,13 @@
 number: int = None
 isNumber: bool = False
+truncatedString: str = None
 temp: str = ""
 
-while(len(temp) < 3 or number == None):
+while(len(temp.replace("-", "")) < 3 or number == None):
     print("Adjon meg egy három jegyű számot: ", end="")
     temp = input()
-    isNumber = temp.isnumeric()
+    truncatedString = temp.replace(".", "").replace("-","")
+    isNumber = truncatedString.isnumeric()
 
     if(isNumber):
         number = int(temp)
