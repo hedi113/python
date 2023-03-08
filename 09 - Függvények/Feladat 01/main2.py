@@ -10,3 +10,12 @@ y = getNumberFromConsole()
 
 result = sumOfTwoNumbers(x, y)
 printToConsole(x, y, result, "+")
+
+divResult = divideTwoNumbers(x, y)
+printToConsole(x, y, divResult, "/")
+
+subResult = substractOfTwoNumbers(x, y)
+printToConsole(x, y, subResult, "-")
+
+multResult = multiplyTwoNumbers(x, y)
+printToConsole(x, y, multResult, "*")

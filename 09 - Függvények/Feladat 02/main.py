@@ -1,10 +1,4 @@
-name: str = None
+from consoleio import *
 
-
-print("Kérem a nevét: ", end="")
-name = str(input())
-
-def something(name: str) -> None:
-    print(f"Üdvözlöm, {name}!")
-
-something(f"{name}")
+name: str = getNameFromConsole()
+printWelcomeMessage(name)
