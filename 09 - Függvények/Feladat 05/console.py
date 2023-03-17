@@ -1,11 +1,19 @@
-text: str = "alma"
-text2: str = "álmatlan"
-count: int = text.count("a")
-count2: int = text.count("l")
-count3: int = text.count("m")
-count4: int = text2.count("a")
-count5: int = text2.count("l")
-count6: int = text2.count("m")
+def getWordFromConsole() -> str:
+    word: str = None
+    while(word == None):
+        print("Kérek egy szót: ", end="")
+        word = str(input())
 
-def printToConsole(result: int) -> int:
-    print(result)
+    return word
+
+def findSameLetters() -> int:
+    firstword: str = None
+    secondword: str = None
+    intersection = ""
+    for x in firstword:
+        if(secondword.find(x) > 0 and intersection.find(x) == -1):
+            intersection += x
+    return intersection
+
+def printToConsole(sameLetter: int) -> None:
+    print(f"Enyyi ugyanojan betű van a két szóban: {sameLetter}")
