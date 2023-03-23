@@ -16,4 +16,4 @@ def findSameLetters() -> int:
     return intersection
 
 def printToConsole(sameLetter: int) -> None:
-    print(f"Enyyi ugyanojan betű van a két szóban: {sameLetter}")
+    print(f"Ennyi ugyanojan betű van a két szóban: {sameLetter}")

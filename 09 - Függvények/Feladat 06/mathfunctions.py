@@ -1,4 +1,8 @@
-def convertToFahrenheit(a: int) -> int:
+def convertToFahrenheit(b: int) -> int:
     fahrenResult: int = None
-    fahrenResult = (a /9) * 5
+    fahrenResult = (9/5)* b + 32
     return fahrenResult
+def convertToKelvin(b: int) -> int:
+    kelvinresult: int = None
+    kelvinresult = (b + 273)
+    return kelvinresult
