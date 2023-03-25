@@ -13,7 +13,7 @@ def convertToCHF(a: int) -> float:
 
 def convertJPYtoEUR(JPYresult: float) -> float:
     JPYtoEURresult: float = None
-    JPYtoEURresult = JPYresult * 0.75
+    JPYtoEURresult = JPYresult * 0.0075
     return JPYtoEURresult
 def convertUSDtoEUR(USDresult: float) -> float:
     USDtoEURresult: float = None
