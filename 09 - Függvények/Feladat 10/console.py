@@ -21,11 +21,13 @@ def getGuessFromConsole(rnd: int) -> int:
 
     return guess
 
-def howManyTries(amount: int, guess: int, rnd: int) -> int:
-    if(guess):
+def howManyTries(guess: int, rnd: int) -> int:
+    amount = 0
+    while(guess != rnd):
         amount = amount + 1
-    if(guess == rnd):
-        print(f"Gratulálok! {amount} próbálkozásból találta ki a számot.")
     return amount
+
+def printResults(amount: int) -> None:
+        print(f"Gratulálok! {amount} próbálkozásból találta ki a számot.")
 
     

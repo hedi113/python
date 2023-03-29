@@ -6,4 +6,5 @@ rnd2 = getRnd2()
 rnd3 = generateRndBetween(rnd1, rnd2)
 
 guess = getGuessFromConsole(rnd3)
-amount = howManyTries(0, guess, rnd3)
+amount = howManyTries(guess, rnd3)
+printResults(amount)
