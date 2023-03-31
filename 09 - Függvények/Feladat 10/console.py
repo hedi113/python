@@ -1,4 +1,4 @@
-def getGuessFromConsole(rnd: int) -> int:
+def getGuessFromConsole(rnd: int, amount: int = 0) -> int:
     guess: int = None
     temp: str = None
     isNumber: bool = False
@@ -8,9 +8,9 @@ def getGuessFromConsole(rnd: int) -> int:
         temp = input()
         truncatedString = temp.replace("-", "").replace(".", "")
         isNumber = truncatedString.isnumeric()
-
         if(isNumber):
             guess = int(temp)
+            amount = amount + 1
         else:
             print("Nem számot adott meg!!")
         
@@ -18,13 +18,6 @@ def getGuessFromConsole(rnd: int) -> int:
             print("A tipp kisebb mint a gondolt szám.")
         elif(guess > rnd):
             print("A tipp nagyobb mint a gondolt szám.")
-
-    return guess
-
-def howManyTries(guess: int, rnd: int) -> int:
-    amount = 0
-    while(guess != rnd):
-        amount = amount + 1
     return amount
 
 def printResults(amount: int) -> None:
