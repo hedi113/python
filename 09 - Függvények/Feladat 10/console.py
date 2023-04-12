@@ -11,13 +11,14 @@ def getGuessFromConsole(rnd: int, amount: int = 0) -> int:
         if(isNumber):
             guess = int(temp)
             amount = amount + 1
+            if(guess < rnd):
+                print("A tipp kisebb mint a gondolt szám.")
+            elif(guess > rnd):
+                print("A tipp nagyobb mint a gondolt szám.")
         else:
             print("Nem számot adott meg!!")
         
-        if(guess < rnd):
-            print("A tipp kisebb mint a gondolt szám.")
-        elif(guess > rnd):
-            print("A tipp nagyobb mint a gondolt szám.")
+        
     return amount
 
 def printResults(amount: int) -> None:
