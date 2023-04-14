@@ -1,4 +1,5 @@
 from console import *
+from paymentcalc import *
 
 name1 = getNameFromConsole()
 hours1 = getHoursFromConsole()
