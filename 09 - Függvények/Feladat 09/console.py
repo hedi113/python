@@ -43,3 +43,5 @@ def printJPYtoConsole(jpy: int) -> None:
 
 def printCHFtoConsole(chf: int) -> None:
     print(f"A megadott összeg svájci frankban: {chf}")
+
+
