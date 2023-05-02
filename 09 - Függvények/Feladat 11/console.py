@@ -22,13 +22,5 @@ def getHoursFromConsole() -> int:
             print("Nem számot adott megy, vagy a dolgozott órák száma meghaladja a 100-at.")
         return hours
 
-def howMuchPayment(hours: int) -> int:
-    payment: int = None
-    if(hours == 40 or hours < 40):
-        payment = hours * 1000
-    if(hours > 40):
-        payment = (hours - 40) * 1500 + 40 * 1000 
-    return payment
-
 def printNameAndPayment(name: str, payment: int, hours: int) -> None:
     print(f"{name} e heti keresete: {payment} \nMunkaidő: {hours} óra")
