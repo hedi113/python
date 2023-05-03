@@ -1,7 +1,7 @@
 class Motorcycle:
     def __init__(self):
         super().__init__()
-        self.manufacture: str
+        self.manufacture: str = None
         self.type: str = None
         self.model: str = None
         self.fuelConsumption: float = 0
