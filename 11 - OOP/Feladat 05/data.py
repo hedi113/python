@@ -4,7 +4,7 @@ class LegoSet:
             super().__init__()
             self.pieces: int = 0
             self.buidTime: str = None
-            self.number: int = 78612754
+            self.number: int = 0
             self.name: str = None
             self.ageGroup: str = None
 
