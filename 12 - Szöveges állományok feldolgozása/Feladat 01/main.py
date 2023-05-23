@@ -1,21 +1,38 @@
 from typing import *
-from io import open
-import os
+from student import Student
+from studentIO import importStudents, writeStudentsInFile
+from services import *
 
-fileName:str = "data/ip.txt"
-basepath: str = os.path.dirname(os.path.abspath(__file__))
-fileFullPath: str = os.path.join(basepath, fileName)
+students: List[Student] = importStudents()
 
-oneLine:str = None
-allLines:List[str]=[]
+#1 - Írjuk ki minden diák adatát a képernyőre!
+print("Az osztaly tanuloi:")
+for student in students:
+    print(student)
 
-try:
-    with open(fileFullPath,encoding="utf-8", mode="r") as file:
-        for line in file:
-            oneLine = line.strip()
-            allLines.append(oneLine)
-except FileNotFoundError as ex:
-    print(f"{ex.filename} nem található!")
+#2 - Hány diák jár az osztályba?
+countOfClass: int = len(students)
+print(f"\n\nAz osztalynak {countOfClass} tanulojja van.\n\n")
 
-for line in allLines:
-    print(f"{line}")
+#3 - Mennyi az osztály átlaga?
+classAvarage: float = calculateAvarage(students)
+print(f"Az osztaly atlaga: {classAvarage:1.2f}")
+
+#4 - Keressük a legtöbb pontot elért érettségizőt és írjuk ki az adatait a képernyőre.
+bestStudent: Student = getBestStudent(students)
+print(f"A legjobb tanulo: {bestStudent}")
+
+#5 - atlagfelett.txt allományba keressük ki azon tanulókat kiknek pontjai meghaladják az átlagot!
+aboveAvarage: List[Student] = studentsAboveAverage(students, classAvarage)
+writeStudentsInFile(aboveAvarage, "atlagfelett.txt")
+#6 - Van e kitünő tanulónk?
+
+"""
+7 - Hány elégtelen, elégséges, jó, jeles és kitünő tanuló van az osztályban?
+    Értékhatárok:
+ - elégtelen, ha: 0.00 - 1.99
+ - elégséges, ha: 2.00 - 2.99
+ - jó, ha: 3.00 - 3.99
+ - jeles, ha: 4.00 - 4.99
+ - kitünő, ha: 5.00
+ """
