@@ -26,7 +26,11 @@ print(f"A legjobb tanulo: {bestStudent}")
 aboveAvarage: List[Student] = studentsAboveAverage(students, classAvarage)
 writeStudentsInFile(aboveAvarage, "atlagfelett.txt")
 #6 - Van e kitünő tanulónk?
-
+exists: bool = isAnyExcelentStudent(students)
+if(exists):
+    print("\n\nVan kitűnő tanulónk.\n\n")
+else:
+    print("\n\nNincs kitűnő tanulónk.\n\n")
 """
 7 - Hány elégtelen, elégséges, jó, jeles és kitünő tanuló van az osztályban?
     Értékhatárok:

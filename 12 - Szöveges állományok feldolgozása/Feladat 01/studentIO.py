@@ -17,11 +17,10 @@ def importStudents() -> List[Student]:
     try:
         with open(fileFullPath,encoding="utf-8", mode="r") as file:
             for line in file:
-                oneLine = line.strip() #Antalfai Martin	3,53
-                data = oneLine.split('\t') #tabulátorral elválasztva
+                oneLine = line.strip() 
+                data = oneLine.split('\t') 
                 
-                #data[0] = Antalfai Martin
-                #data[1] = 3,53
+               
 
                 student = Student()
                 student.name = data[0]
