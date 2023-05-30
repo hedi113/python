@@ -1,0 +1,4 @@
+Fowler Martin - Refactoring - K�djav�t�s �jratervez�ssel [2006] - informatika - 372
+Fowler Martin - Domain-Specific Languages [2010] - informatika - 640
+Gamma Erich - Design Patterns: Elements of Reusable Object-Oriented Software [1994] - informatika - 416
+Gamma Erich - Programtervez�si mint�k - �jrahasznos�that� elemek objektumk�zpont� programokhoz [2004] - informatika - 421

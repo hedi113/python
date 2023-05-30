@@ -36,3 +36,15 @@ def readBooksFromFile(fileName: str) -> List[Book]:
     except FileNotFoundError as ex:
         print(f"{ex.filename} nem található!")
         return []
+
+def writeBooksInFile(books: List[Book], fileName: str) -> None:
+    basepath: str = os.path.dirname(os.path.abspath(__file__))
+    basepath += "/output"
+    fileFullPath: str = os.path.join(basepath, fileName)
+
+    try:
+        with open (fileFullPath, encoding='utf-8', mode="w") as file:
+            for theme in books:
+                file.write(f"{theme}\n")
+    except FileNotFoundError as ex:
+        print(f"{ex.filename} nem talalhato!")

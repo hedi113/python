@@ -16,4 +16,4 @@ class Book:
         self.writerHonorarium: float = 0
 
     def __str__(self) -> str:
-        return f"{self.writerFirstName} {self.writerSurName} - {self.bookTitle} [{self.publishYear}]"
+        return f"{self.writerFirstName} {self.writerSurName} - {self.bookTitle} [{self.publishYear}] - {self.theme} - {self.pageNumber}"
