@@ -7,32 +7,20 @@ def writeToConsole(books: List[Book]) -> None:
         print(book)
 
 
-def typeInformatycs(books: List[Book]) -> List[Book]:
-    allInfBooks: List[Book] = []
+def getFilteredBooks(books: List[Book], theme: str) -> List[Book]:
+    allFilteredBooks: List[Book] = []
 
     for book in books:
-        if(book.theme == "informatika"):
-            allInfBooks.append(book)
+        if(book.theme == theme):
+            allFilteredBooks.append(book)
         
-    return allInfBooks
+    return allFilteredBooks
 
-def PBYears(books: List[Book]) -> List[Book]:
+def PBYears(books: List[Book], start: int, end: int) -> List[Book]:
     bookPBYear: List[Book] = []
 
     for book in books:
-        if(book.publishYear >= 1900 and book.publishYear < 2000):
+        if(book.publishYear >= start and book.publishYear < end):
             bookPBYear.append(book)
         
     return bookPBYear
-
-def pages(books: List[Book]) -> List[Book]:
-    sortedList: List[Book] = []
-
-    for book in books:
-        if(book.pageNumber):
-            sortedList.append(book)
-            sortedList = sorted(book.pageNumber, reverse=True)
-
-
-    return sortedList
-

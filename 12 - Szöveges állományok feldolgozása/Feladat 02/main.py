@@ -10,11 +10,9 @@ books: List[Book] = readBooksFromFile(fileName)
 writeToConsole(books)
 
 #Keressük ki az informatika témajú könyveket és mentsük el őket az informatika.txt állömányba
-allInfBooks: List[Book] = typeInformatycs(books)
-writeBooksInFile(allInfBooks, "informatika.txt")
+allFilteredBooks: List[Book] = getFilteredBooks(books, "informatika")
+writeBooksInFile(allFilteredBooks, "informatika.txt")
 #Az 1900.txt állományba mentsük el azokat a könyveket amelyek az 1900-as években íródtak
-bookPBYear: List[Book] = PBYears(books)
+bookPBYear: List[Book] = PBYears(books, 1900, 2000)
 writeBooksInFile(bookPBYear, "1900.txt")
 #Rendezzük az adatokat a könyvek oldalainak száma szerint csökkenő sorrendbe és a sorbarakott.txt állományba mentsük el.
-sortedList: List[Book] = pages(books)
-writeBooksInFile(sortedList, "sorbarakott.txt")

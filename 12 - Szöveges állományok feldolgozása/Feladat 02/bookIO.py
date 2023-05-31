@@ -44,7 +44,8 @@ def writeBooksInFile(books: List[Book], fileName: str) -> None:
 
     try:
         with open (fileFullPath, encoding='utf-8', mode="w") as file:
-            for theme in books:
-                file.write(f"{theme}\n")
+            for book in books:
+                file.write(f"{book.writerFirstName}\t{book.writerSurName}\t{book.bookTitle}\t{book.ISBN}\t{book.theme}\t{book.publishYear}\n")
     except FileNotFoundError as ex:
-        print(f"{ex.filename} nem talalhato!")
+        print(f"{ex.filename} irasakor hiba lepett fel!")
+
