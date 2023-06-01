@@ -16,3 +16,5 @@ writeBooksInFile(allFilteredBooks, "informatika.txt")
 bookPBYear: List[Book] = PBYears(books, 1900, 2000)
 writeBooksInFile(bookPBYear, "1900.txt")
 #Rendezzük az adatokat a könyvek oldalainak száma szerint csökkenő sorrendbe és a sorbarakott.txt állományba mentsük el.
+sortBooksByPageNumberDescending(books)
+writeBooksInFile(books, "sorbarakott.txt") 

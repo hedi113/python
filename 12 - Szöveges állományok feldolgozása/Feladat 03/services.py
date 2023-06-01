@@ -14,3 +14,49 @@ def findPlayerInfo(players: List[Player], type: str) -> List[Player]:
             allPlayerInfo.append(player)
 
     return allPlayerInfo
+
+def sortPlayersBy(players: List[Player]) -> None:
+    playerCount: int = len(players)
+    temp: int = None
+
+    for i in range(0, playerCount -1, 1):
+        for j in range(i + 1, playerCount, 1):
+            if(players[j].height < players[i].height): 
+
+                temp = players[i]
+                players[j] = players[j]
+                players[j] = temp
+
+def calculateAvarage(players: List[Player]) -> float:
+    sum: float = 0 
+
+    for player in players:
+        
+        sum += player.height
+    
+    return sum / len(players)
+
+def getAboveAvarage(players: List[Player], avarage: float) -> List[Player]:
+    aboveAvarage: List[Player] = []
+
+    for player in players:
+        if(player.height > avarage):
+            aboveAvarage.append(player)
+
+    return aboveAvarage
+
+def getBelowAvarage(players: List[Player], avarage: float) -> List[Player]:
+    belowAvarage: List[Player] = []
+
+    for player in players:
+        if(player.height > avarage):
+            belowAvarage.append(player)
+
+    return belowAvarage
+
+def calculateBelowAvarage(avarage: float, height: int, players: List[Player]) -> float:
+    howMuchBelowAvarage: float = 0
+
+    for player in players:
+        if(player.height < avarage):
+            

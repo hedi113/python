@@ -4,7 +4,7 @@ class Player:
         super().__init__()
         
         self.name: str = None
-        self.height: float = 0
+        self.height: int = 0
         self.post: str = None
         self.nationality: str = None
         self.team: str = None

@@ -1,8 +1,7 @@
-Christie	Agatha	A v�d tan�ja	963841345X	krimi	1994
-Asimov	Isaac	A biol�gia r�vid t�rt�nete	11111111111	term�szettudom�ny	1972
-Asimov	Isaac	A Hold trag�di�ja	22222222222	sz�pirodalom	1979
-Lefebvre	Georges	Nap�leon	963280256X	t�rt�nelem	1975
-Attenborough	David	Az �let er�pr�b�i	9638227117	term�szettudom�ny	1994
-Attenborough	David	Az �l� bolyg� - a f�ld mai arculata	9635300077	term�szettudom�ny	1994
-Attenborough	David	Az els� �denkert	9630267217	term�szettudom�ny	1989
-Gamma	Erich	Design Patterns: Elements of Reusable Object-Oriented Software	9780201633610	informatika	1994
+Asimov	Isaac	A biol�gia r�vid t�rt�nete	11111111111	term�szettudom�ny	1972	278
+Asimov	Isaac	A Hold trag�di�ja	22222222222	sz�pirodalom	1979	310
+Lefebvre	Georges	Nap�leon	963280256X	t�rt�nelem	1975	783
+Attenborough	David	Az �let er�pr�b�i	9638227117	term�szettudom�ny	1994	326
+Attenborough	David	Az �l� bolyg� - a f�ld mai arculata	9635300077	term�szettudom�ny	1994	324
+Attenborough	David	Az els� �denkert	9630267217	term�szettudom�ny	1989	238
+Gamma	Erich	Design Patterns: Elements of Reusable Object-Oriented Software	9780201633610	informatika	1994	416
