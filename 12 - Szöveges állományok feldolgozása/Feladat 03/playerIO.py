@@ -2,7 +2,7 @@ from player import Player
 import os
 from typing import *
 from io import open
-from services
+from services import *
 
 def readPlayersFromFile(fileName: str) -> List[Player]:
     players: List[Player] = []
@@ -47,7 +47,7 @@ def writePlayersInFile(fileName: str, players: List[Player]) -> None:
     except FileNotFoundError as ex:
         print(f"{ex.filename} írásakor hiba lépett fel!")
 
-def writeSmallPlayersInFile(fileName: str, players: List[Player]) -> None:
+def writeSmallPlayersInFile(fileName: str, players: List[Player], heightdifference: float) -> None:
     
     basepath: str = os.path.dirname(os.path.abspath(__file__))
     basepath += "/output"
@@ -57,8 +57,10 @@ def writeSmallPlayersInFile(fileName: str, players: List[Player]) -> None:
     try:
         with open(fileFullPath,encoding="utf-8", mode="w") as file:
             for player in players:
-                file.write(f"{player.name} - {player.height} : {\n")
+                file.write(f"{player.name} - {player.height} : {heightdifference:1.2f}\n")
     
     except FileNotFoundError as ex:
         print(f"{ex.filename} írásakor hiba lépett fel!")
+
+
         

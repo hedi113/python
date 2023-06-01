@@ -45,18 +45,16 @@ def getAboveAvarage(players: List[Player], avarage: float) -> List[Player]:
 
     return aboveAvarage
 
-def getBelowAvarage(players: List[Player], avarage: float) -> List[Player]:
-    belowAvarage: List[Player] = []
-
-    for player in players:
-        if(player.height > avarage):
-            belowAvarage.append(player)
-
-    return belowAvarage
-
-def calculateBelowAvarage(avarage: float, height: int, players: List[Player]) -> float:
-    howMuchBelowAvarage: float = 0
-
+def calculateBelowAvarage(avarage: float, players: List[Player]) -> float:
+    smallPlayers: List[Player] = []
     for player in players:
         if(player.height < avarage):
-            
+            howMuchBelowAvarage: float = avarage - player.height
+            smallPlayers.append(player)
+            smallPlayers.append(howMuchBelowAvarage)
+
+    return smallPlayers
+
+
+    
+    
