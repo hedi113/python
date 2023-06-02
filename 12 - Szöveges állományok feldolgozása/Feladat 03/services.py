@@ -1,6 +1,7 @@
 from typing import *
 from playerIO import *
 from player import Player
+from smallPlayer import SmallPlayer
 
 def writeToConsole(players: List[Player]) -> None:
     for player in players:
@@ -45,13 +46,20 @@ def getAboveAvarage(players: List[Player], avarage: float) -> List[Player]:
 
     return aboveAvarage
 
-def calculateBelowAvarage(avarage: float, players: List[Player]) -> float:
-    smallPlayers: List[Player] = []
+def getBelowAvarage(avarage: float, players: List[Player]) -> List[Player]:
+    belowAvarage: List[player] = []
     for player in players:
         if(player.height < avarage):
-            howMuchBelowAvarage: float = avarage - player.height
-            smallPlayers.append(player)
-            smallPlayers.append(howMuchBelowAvarage)
+            belowAvarage.append(player)
+
+    return belowAvarage
+
+def calculateHeightDifference(avarage: float, smallPlayers: List[SmallPlayer]) -> float:
+    value: float = 0
+
+    for smallPlayer in smallPlayers:
+        value = value + avarage - smallPlayer.height
+        smallPlayers.append(value)
 
     return smallPlayers
 

@@ -24,5 +24,8 @@ writePlayersInFile("atlagnalmagasabbak.txt", aboveAvarage)
 
 #Egy szöveges állományba, „alacsonyak.txt” keresse ki a játékosok átlagmagasságától alacsonyabb játékosokat. Az állomány tartalmazza a játékosok nevét,  magasságát és hogy mennyivel alacsonyabbak az átlagnál, 2 tizedes pontossággal.
 
-heightdifference = calculateBelowAvarage(avarage, players)
-writeSmallPlayersInFile("alacsonyak.txt", players, heightdifference)
+belowAvarage = getBelowAvarage(avarage, players)
+writePlayersInFile("infok.txt", belowAvarage)
+fileName2: str = "output/infok.txt"
+calculateHeightDifference(belowAvarage, smallPlayers)
+writeSmallPlayersInFile("alacsonyak.txt", )
