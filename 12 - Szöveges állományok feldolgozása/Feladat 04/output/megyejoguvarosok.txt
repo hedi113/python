@@ -1,0 +1,19 @@
+B�k�scsaba	megyesz�khely megyei jog� v�ros	193.93	63752	B�k�s
+Budapest	fov�ros	525.09	1740041	Budapest
+Debrecen	megyesz�khely megyei jog� v�ros	461.66	207594	Hajd�-Bihar
+Eger	megyesz�khely megyei jog� v�ros	92.21	56166	Heves
+�rd	megyei jog� v�ros	60.54	65277	Pest
+Gyor	megyesz�khely megyei jog� v�ros	174.62	131564	Gyor-Moson-Sopron
+Kaposv�r	megyesz�khely megyei jog� v�ros	113.59	67686	Somogy
+Kecskem�t	megyesz�khely megyei jog� v�ros	322.57	114226	B�cs-Kiskun
+Miskolc	megyesz�khely megyei jog� v�ros	236.66	166823	Borsod-Aba�j-Zempl�n
+Ny�regyh�za	megyesz�khely megyei jog� v�ros	274.54	117658	Szabolcs-Szatm�r-Bereg
+P�cs	megyesz�khely megyei jog� v�ros	162.77	156801	Baranya
+Sopron	megyei jog� v�ros	169.01	61390	Gyor-Moson-Sopron
+Szeged	megyesz�khely megyei jog� v�ros	281.0	170052	Csongr�d
+Sz�kesfeh�rv�r	megyesz�khely megyei jog� v�ros	170.89	101722	Fej�r
+Szolnok	megyesz�khely megyei jog� v�ros	187.24	74341	J�sz-Nagykun-Szolnok
+Szombathely	megyesz�khely megyei jog� v�ros	97.5	79348	Vas
+Tatab�nya	megyesz�khely megyei jog� v�ros	91.42	70003	Kom�rom-Esztergom
+Veszpr�m	megyesz�khely megyei jog� v�ros	126.9	64024	Veszpr�m
+Zalaegerszeg	megyesz�khely megyei jog� v�ros	102.41	61849	Zala

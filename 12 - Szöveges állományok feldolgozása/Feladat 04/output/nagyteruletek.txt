@@ -1,0 +1,29 @@
+Balmaz�jv�ros	j�r�ssz�khely v�ros	205.45	17354	Hajd�-Bihar
+Budapest	fov�ros	525.09	1740041	Budapest
+Cegl�d	j�r�ssz�khely v�ros	244.87	37778	Pest
+Debrecen	megyesz�khely megyei jog� v�ros	461.66	207594	Hajd�-Bihar
+D�vav�nya	v�ros	216.55	7622	B�k�s
+Gyomaendrod	j�r�ssz�khely v�ros	303.94	13674	B�k�s
+Gyula	j�r�ssz�khely v�ros	255.8	31679	B�k�s
+Hajd�b�sz�rm�ny	j�r�ssz�khely v�ros	370.78	31306	Hajd�-Bihar
+Hajd�n�n�s	j�r�ssz�khely v�ros	259.62	16975	Hajd�-Bihar
+Hajd�szoboszl�	j�r�ssz�khely v�ros	238.7	23309	Hajd�-Bihar
+H�dmezov�s�rhely	megyei jog� v�ros	487.98	46522	Csongr�d
+J�szber�ny	j�r�ssz�khely v�ros	221.35	26924	J�sz-Nagykun-Szolnok
+Karcag	j�r�ssz�khely v�ros	368.63	19980	J�sz-Nagykun-Szolnok
+Kecskem�t	megyesz�khely megyei jog� v�ros	322.57	114226	B�cs-Kiskun
+Kiskunf�legyh�za	j�r�ssz�khely v�ros	256.3	29972	B�cs-Kiskun
+Kiskunhalas	j�r�ssz�khely v�ros	227.58	28427	B�cs-Kiskun
+Kiskunmajsa	j�r�ssz�khely v�ros	221.99	11766	B�cs-Kiskun
+Kis�jsz�ll�s	v�ros	205.27	11367	J�sz-Nagykun-Szolnok
+Mak�	j�r�ssz�khely v�ros	229.23	23573	Csongr�d
+Mezot�r	j�r�ssz�khely v�ros	289.72	17337	J�sz-Nagykun-Szolnok
+Miskolc	megyesz�khely megyei jog� v�ros	236.66	166823	Borsod-Aba�j-Zempl�n
+N�dudvar	v�ros	225.91	8768	Hajd�-Bihar
+Nagykor�s	j�r�ssz�khely v�ros	227.94	24433	Pest
+Ny�regyh�za	megyesz�khely megyei jog� v�ros	274.54	117658	Szabolcs-Szatm�r-Bereg
+Orosh�za	j�r�ssz�khely v�ros	202.22	28910	B�k�s
+Szeged	megyesz�khely megyei jog� v�ros	281.0	170052	Csongr�d
+Szeghalom	j�r�ssz�khely v�ros	217.13	9115	B�k�s
+Szentes	j�r�ssz�khely v�ros	353.25	28476	Csongr�d
+T�rkeve	v�ros	236.52	8741	J�sz-Nagykun-Szolnok

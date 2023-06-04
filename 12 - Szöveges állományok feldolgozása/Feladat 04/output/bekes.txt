@@ -1,0 +1,22 @@
+Battonya	v�ros	145.71	5565	B�k�s
+B�k�s	j�r�ssz�khely v�ros	127.23	19763	B�k�s
+B�k�scsaba	megyesz�khely megyei jog� v�ros	193.93	63752	B�k�s
+Csorv�s	v�ros	90.18	4981	B�k�s
+D�vav�nya	v�ros	216.55	7622	B�k�s
+Elek	v�ros	54.91	4816	B�k�s
+F�zesgyarmat	v�ros	127.34	5665	B�k�s
+Gyomaendrod	j�r�ssz�khely v�ros	303.94	13674	B�k�s
+Gyula	j�r�ssz�khely v�ros	255.8	31679	B�k�s
+Kondoros	v�ros	81.84	5201	B�k�s
+K�r�slad�ny	v�ros	123.79	4582	B�k�s
+Medgyesegyh�za	v�ros	64.29	3691	B�k�s
+Mezober�ny	v�ros	118.53	10896	B�k�s
+Mezohegyes	v�ros	155.44	4994	B�k�s
+Mezokov�csh�za	j�r�ssz�khely v�ros	62.59	6049	B�k�s
+Orosh�za	j�r�ssz�khely v�ros	202.22	28910	B�k�s
+Sarkad	j�r�ssz�khely v�ros	125.57	10011	B�k�s
+Szarvas	j�r�ssz�khely v�ros	161.57	17007	B�k�s
+Szeghalom	j�r�ssz�khely v�ros	217.13	9115	B�k�s
+T�tkoml�s	v�ros	125.05	5780	B�k�s
+�jk�gy�s	v�ros	54.92	5235	B�k�s
+V�szto	v�ros	125.7	6680	B�k�s
