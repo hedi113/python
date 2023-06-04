@@ -1,346 +1,346 @@
-Aba	város	Fejér	Székesfehérvári	Abai	4619	88.05
-Abádszalók	város	Jász-Nagykun-Szolnok	Kunhegyesi	Tiszafüredi	3922	132.23
-Abaújszántó	város	Borsod-Abaúj-Zemplén	Gönci	Abaúj-Hegyközi	3088	47.36
-Abony	város	Pest	Ceglédi	Ceglédi	14876	127.97
-Ács	város	Komárom-Esztergom	Komáromi	Komáromi	6965	103.75
-Adony	város	Fejér	Dunaújvárosi	Adonyi	3912	61.05
-Ajak	város	Szabolcs-Szatmár-Bereg	Kisvárdai	Kisvárdai	3528	24.76
-Ajka	járásszékhely város	Veszprém	Ajkai	Ajkai	29058	95.05
-Albertirsa	város	Pest	Ceglédi	Ceglédi	12410	72.96
-Alsózsolca	város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	5937	26.02
-Aszód	járásszékhely város	Pest	Aszódi	Aszódi	6414	16.2
-Bábolna	város	Komárom-Esztergom	Komáromi	Komáromi	3654	33.55
-Bácsalmás	járásszékhely város	Bács-Kiskun	Bácsalmási	Bácsalmási	6697	108.32
-Badacsonytomaj	város	Veszprém	Tapolcai	Tapolcai	2080	32.71
-Baja	járásszékhely város	Bács-Kiskun	Bajai	Bajai	37330	177.61
-Baktalórántháza	járásszékhely város	Szabolcs-Szatmár-Bereg	Baktalórántházai	Baktalórántházai	4302	35.25
-Balassagyarmat	járásszékhely város	Nógrád	Balassagyarmati	Balassagyarmati	16133	23.74
-Balatonalmádi	járásszékhely város	Veszprém	Balatonalmádi	Balatonalmádi	9167	49.88
-Balatonboglár	város	Somogy	Fonyódi	Fonyódi	5932	32.04
-Balatonföldvár	város	Somogy	Siófoki	Balatonföldvári	2064	15.32
-Balatonfüred	járásszékhely város	Veszprém	Balatonfüredi	Balatonfüredi	13532	46.45
-Balatonfuzfo	város	Veszprém	Balatonalmádi	Balatonalmádi	4299	9.25
-Balatonkenese	város	Veszprém	Balatonalmádi	Balatonalmádi	3195	65.57
-Balatonlelle	város	Somogy	Fonyódi	Fonyódi	4735	43.23
-Balkány	város	Szabolcs-Szatmár-Bereg	Nagykállói	Nagykállói	6215	89.99
-Balmazújváros	járásszékhely város	Hajdú-Bihar	Balmazújvárosi	Balmazújvárosi	17354	205.45
-Barcs	járásszékhely város	Somogy	Barcsi	Barcsi	11378	122.9
-Bátaszék	város	Tolna	Szekszárdi	Szekszárdi	6388	63.55
-Bátonyterenye	járásszékhely város	Nógrád	Bátonyterenyei	Bátonyterenyei	12604	78.92
-Battonya	város	Békés	Mezokovácsházai	Mezokovácsházai	5565	145.71
-Békés	járásszékhely város	Békés	Békési	Békési	19763	127.23
-Békéscsaba	megyeszékhely megyei jogú város	Békés	Békéscsabai	Békéscsabai	63752	193.93
-Bélapátfalva	járásszékhely város	Heves	Bélapátfalvai	Bélapátfalvai	2996	36.63
-Beled	város	Gyor-Moson-Sopron	Kapuvári	Kapuvár-Beledi	2553	26.47
-Berettyóújfalu	járásszékhely város	Hajdú-Bihar	Berettyóújfalui	Berettyóújfalui	15167	170.98
-Berhida	város	Veszprém	Várpalotai	Várpalotai	5967	42.73
-Besenyszög	város	Jász-Nagykun-Szolnok	Szolnoki	Szolnoki	3372	138.08
-Biatorbágy	város	Pest	Budakeszi	Budaörsi	12805	44.12
-Bicske	járásszékhely város	Fejér	Bicskei	Bicskei	11642	77.08
-Biharkeresztes	város	Hajdú-Bihar	Berettyóújfalui	Berettyóújfalui	3888	49.26
-Bodajk	város	Fejér	Móri	Móri	4051	28.98
-Bóly	járásszékhely város	Baranya	Bólyi	Mohácsi	3996	25.38
-Bonyhád	járásszékhely város	Tolna	Bonyhádi	Bonyhádi	13741	72.13
-Borsodnádasd	város	Borsod-Abaúj-Zemplén	Ózdi	Ózdi	3007	28.08
-Budakalász	város	Pest	Szentendrei	Szentendrei	10510	15.17
-Budakeszi	járásszékhely város	Pest	Budakeszi	Budaörsi	14507	37.1
-Budaörs	város	Pest	Budakeszi	Budaörsi	29605	23.59
-Budapest	fováros	Budapest		Budapest	1740041	525.09
-Bük	város	Vas	Koszegi	Csepregi	3493	20.86
-Cegléd	járásszékhely város	Pest	Ceglédi	Ceglédi	37778	244.87
-Celldömölk	járásszékhely város	Vas	Celldömölki	Celldömölki	10786	52.39
-Cigánd	járásszékhely város	Borsod-Abaúj-Zemplén	Cigándi	Bodrogközi	2682	56.76
-Csákvár	város	Fejér	Bicskei	Bicskei	5221	118.76
-Csanádpalota	város	Csongrád	Makói	Makói	2968	77.76
-Csenger	járásszékhely város	Szabolcs-Szatmár-Bereg	Csengeri	Csengeri	4730	36.16
-Csepreg	város	Vas	Koszegi	Csepregi	3384	49.54
-Csongrád	járásszékhely város	Csongrád	Csongrádi	Csongrádi	16846	173.89
-Csorna	járásszékhely város	Gyor-Moson-Sopron	Csornai	Csornai	10649	91.73
-Csorvás	város	Békés	Békéscsabai	Orosházai	4981	90.18
-Csurgó	járásszékhely város	Somogy	Csurgói	Csurgói	5186	59.42
-Dabas	járásszékhely város	Pest	Dabasi	Dabasi	16813	165.99
-Debrecen	megyeszékhely megyei jogú város	Hajdú-Bihar	Debreceni	Debreceni	207594	461.66
-Demecser	város	Szabolcs-Szatmár-Bereg	Kemecsei	Ibrány-Nagyhalászi	4280	36.98
-Derecske	járásszékhely város	Hajdú-Bihar	Derecskei	Derecske-Létavértesi	8906	103.58
-Dévaványa	város	Békés	Gyomaendrodi	Szeghalomi	7622	216.55
-Devecser	járásszékhely város	Veszprém	Devecseri	Devecseri	4325	64.11
-Diósd	város	Pest	Érdi	Érdi	9522	5.75
-Dombóvár	járásszékhely város	Tolna	Dombóvári	Dombóvári	19494	78.48
-Dombrád	város	Szabolcs-Szatmár-Bereg	Kisvárdai	Kisvárdai	3900	51.84
-Dorog	város	Komárom-Esztergom	Esztergomi	Dorogi	11996	11.54
-Dunaföldvár	város	Tolna	Paksi	Paksi	8666	111.42
-Dunaharaszti	város	Pest	Szigetszentmiklósi	Ráckevei	20260	29.17
-Dunakeszi	járásszékhely város	Pest	Dunakeszi	Dunakeszi	40334	31.06
-Dunaújváros	megyei jogú város	Fejér	Dunaújvárosi	Dunaújvárosi	48010	52.67
-Dunavarsány	város	Pest	Szigetszentmiklósi	Ráckevei	7480	22.52
-Dunavecse	város	Bács-Kiskun	Kunszentmiklósi	Kunszentmiklósi	3937	66.77
-Edelény	járásszékhely város	Borsod-Abaúj-Zemplén	Edelényi	Edelényi	10019	56.84
-Eger	megyeszékhely megyei jogú város	Heves	Egri	Egri	56166	92.21
-Elek	város	Békés	Gyulai	Gyulai	4816	54.91
-Emod	város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	4895	49.37
-Encs	járásszékhely város	Borsod-Abaúj-Zemplén	Encsi	Encsi	6201	25.8
-Enying	járásszékhely város	Fejér	Enyingi	Enyingi	6768	82.78
-Ercsi	város	Fejér	Martonvásári	Martonvásári	7999	65.31
-Érd	megyei jogú város	Pest	Érdi	Érdi	65277	60.54
-Esztergom	járásszékhely város	Komárom-Esztergom	Esztergomi	Esztergomi	30434	99.95
-Fegyvernek	város	Jász-Nagykun-Szolnok	Törökszentmiklósi	Törökszentmiklósi	6415	71.48
-Fehérgyarmat	járásszékhely város	Szabolcs-Szatmár-Bereg	Fehérgyarmati	Fehérgyarmati	7861	52.46
-Felsozsolca	város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	6750	16.25
-Fertod	város	Gyor-Moson-Sopron	Soproni	Sopron-Fertodi	3461	48.56
-Fertoszentmiklós	város	Gyor-Moson-Sopron	Soproni	Sopron-Fertodi	3891	39.39
-Fonyód	járásszékhely város	Somogy	Fonyódi	Fonyódi	4728	53.55
-Fót	város	Pest	Dunakeszi	Dunakeszi	18968	37.4
-Füzesabony	járásszékhely város	Heves	Füzesabonyi	Füzesabonyi	7781	46.34
-Füzesgyarmat	város	Békés	Szeghalmi	Szeghalomi	5665	127.34
-Gárdony	járásszékhely város	Fejér	Gárdonyi	Gárdonyi	9927	63.5
-Göd	város	Pest	Dunakeszi	Dunakeszi	18565	22.23
-Gödöllo	járásszékhely város	Pest	Gödölloi	Gödölloi	34172	61.92
-Gönc	járásszékhely város	Borsod-Abaúj-Zemplén	Gönci	Abaúj-Hegyközi	1951	37.27
-Gyál	járásszékhely város	Pest	Gyáli	Gyáli	23486	24.93
-Gyomaendrod	járásszékhely város	Békés	Gyomaendrodi	Szarvasi	13674	303.94
-Gyömro	város	Pest	Monori	Monori	16670	26.51
-Gyöngyös	járásszékhely város	Heves	Gyöngyösi	Gyöngyösi	32385	55.31
-Gyöngyöspata	város	Heves	Gyöngyösi	Gyöngyösi	2472	60.75
-Gyönk	város	Tolna	Tamási	Tamási	2066	38.12
-Gyor	megyeszékhely megyei jogú város	Gyor-Moson-Sopron	Gyori	Gyori	131564	174.62
-Gyula	járásszékhely város	Békés	Gyulai	Gyulai	31679	255.8
-Hajdúböszörmény	járásszékhely város	Hajdú-Bihar	Hajdúböszörményi	Hajdúböszörményi	31306	370.78
-Hajdúdorog	város	Hajdú-Bihar	Hajdúböszörményi	Hajdúböszörményi	8888	100.65
-Hajdúhadház	járásszékhely város	Hajdú-Bihar	Hajdúhadházi	Hajdúhadházi	12458	87.8
-Hajdúnánás	járásszékhely város	Hajdú-Bihar	Hajdúnánási	Hajdúböszörményi	16975	259.62
-Hajdúsámson	város	Hajdú-Bihar	Debreceni	Hajdúhadházi	13105	69.47
-Hajdúszoboszló	járásszékhely város	Hajdú-Bihar	Hajdúszoboszlói	Hajdúszoboszlói	23309	238.7
-Hajós	város	Bács-Kiskun	Kalocsai	Kalocsai	3134	89.92
-Halásztelek	város	Pest	Szigetszentmiklósi	Ráckevei	9310	8.64
-Harkány	város	Baranya	Siklósi	Siklósi	4065	25.69
-Hatvan	járásszékhely város	Heves	Hatvani	Hatvani	20259	66.31
-Herend	város	Veszprém	Veszprémi	Veszprémi	3339	19.56
-Heves	járásszékhely város	Heves	Hevesi	Hevesi	10464	99.31
-Hévíz	város	Zala	Keszthelyi	Hévízi	4375	8.31
-Hódmezovásárhely	megyei jogú város	Csongrád	Hódmezovásárhelyi	Hódmezovásárhelyi	46522	487.98
-Ibrány	járásszékhely város	Szabolcs-Szatmár-Bereg	Ibrányi	Ibrány-Nagyhalászi	6842	60.39
-Igal	város	Somogy	Kaposvári	Kaposvári	1308	36.06
-Isaszeg	város	Pest	Gödölloi	Gödölloi	11397	54.84
-Izsák	város	Bács-Kiskun	Kiskorösi	Kiskorösi	5904	113.76
-Jánoshalma	járásszékhely város	Bács-Kiskun	Jánoshalmai	Jánoshalmai	8937	132.21
-Jánosháza	város	Vas	Celldömölki	Celldömölki	2401	23.41
-Jánossomorja	város	Gyor-Moson-Sopron	Mosonmagyaróvári	Mosonmagyaróvári	5912	148.96
-Jászapáti	járásszékhely város	Jász-Nagykun-Szolnok	Jászapáti	Jászberényi	8947	78.16
-Jászárokszállás	város	Jász-Nagykun-Szolnok	Jászberényi	Jászberényi	7806	77.17
-Jászberény	járásszékhely város	Jász-Nagykun-Szolnok	Jászberényi	Jászberényi	26924	221.35
-Jászfényszaru	város	Jász-Nagykun-Szolnok	Jászberényi	Jászberényi	5621	76.16
-Jászkisér	város	Jász-Nagykun-Szolnok	Jászapáti	Jászberényi	5165	130.11
-Kaba	város	Hajdú-Bihar	Püspökladányi	Püspökladányi	5932	95.04
-Kadarkút	város	Somogy	Kaposvári	Kadarkúti	2583	39.74
-Kalocsa	járásszékhely város	Bács-Kiskun	Kalocsai	Kalocsai	16959	53.18
-Kaposvár	megyeszékhely megyei jogú város	Somogy	Kaposvári	Kaposvári	67686	113.59
-Kapuvár	járásszékhely város	Gyor-Moson-Sopron	Kapuvári	Kapuvár-Beledi	10353	96.05
-Karcag	járásszékhely város	Jász-Nagykun-Szolnok	Karcagi	Karcagi	19980	368.63
-Kazincbarcika	járásszékhely város	Borsod-Abaúj-Zemplén	Kazincbarcikai	Kazincbarcikai	28664	36.67
-Kecel	város	Bács-Kiskun	Kiskorösi	Kiskorösi	8687	114.48
-Kecskemét	megyeszékhely megyei jogú város	Bács-Kiskun	Kecskeméti	Kecskeméti	114226	322.57
-Kemecse	járásszékhely város	Szabolcs-Szatmár-Bereg	Kemecsei	Ibrány-Nagyhalászi	4736	38.94
-Kenderes	város	Jász-Nagykun-Szolnok	Karcagi	Karcagi	4647	111.24
-Kerekegyháza	város	Bács-Kiskun	Kecskeméti	Kecskeméti	6300	81.28
-Kerepes	város	Pest	Gödölloi	Gödölloi	10087	24.08
-Keszthely	járásszékhely város	Zala	Keszthelyi	Keszthelyi	20895	75.98
-Kisbér	járásszékhely város	Komárom-Esztergom	Kisbéri	Kisbéri	5282	52.16
-Kisköre	város	Heves	Hevesi	Hevesi	2653	68.42
-Kiskorös	járásszékhely város	Bács-Kiskun	Kiskorösi	Kiskorösi	14259	102.23
-Kiskunfélegyháza	járásszékhely város	Bács-Kiskun	Kiskunfélegyházi	Kiskunfélegyházai	29972	256.3
-Kiskunhalas	járásszékhely város	Bács-Kiskun	Kiskunhalasi	Kiskunhalasi	28427	227.58
-Kiskunmajsa	járásszékhely város	Bács-Kiskun	Kiskunmajsai	Kiskunmajsai	11766	221.99
-Kistarcsa	város	Pest	Gödölloi	Gödölloi	11975	11.02
-Kistelek	járásszékhely város	Csongrád	Kisteleki	Kisteleki	7020	69.19
-Kisújszállás	város	Jász-Nagykun-Szolnok	Karcagi	Karcagi	11367	205.27
-Kisvárda	járásszékhely város	Szabolcs-Szatmár-Bereg	Kisvárdai	Kisvárdai	16473	35.91
-Komádi	város	Hajdú-Bihar	Berettyóújfalui	Berettyóújfalui	5172	144.65
-Komárom	járásszékhely város	Komárom-Esztergom	Komáromi	Komáromi	19729	70.16
-Komló	járásszékhely város	Baranya	Komlói	Komlói	25020	46.55
-Kondoros	város	Békés	Szarvasi	Szarvasi	5201	81.84
-Kozármisleny	város	Baranya	Pécsi	Pécsi	6109	14.45
-Körmend	járásszékhely város	Vas	Körmendi	Körmendi	11676	52.79
-Körösladány	város	Békés	Szeghalmi	Szeghalomi	4582	123.79
-Koszeg	járásszékhely város	Vas	Koszegi	Koszegi	12055	54.66
-Kunhegyes	járásszékhely város	Jász-Nagykun-Szolnok	Kunhegyesi	Tiszafüredi	7483	148.93
-Kunszentmárton	járásszékhely város	Jász-Nagykun-Szolnok	Kunszentmártoni	Kunszentmártoni	8373	143.65
-Kunszentmiklós	járásszékhely város	Bács-Kiskun	Kunszentmiklósi	Kunszentmiklósi	8515	172.11
-Lábatlan	város	Komárom-Esztergom	Esztergomi	Esztergomi	4992	26.35
-Lajosmizse	város	Bács-Kiskun	Kecskeméti	Kecskeméti	11073	164.66
-Lébény	város	Gyor-Moson-Sopron	Mosonmagyaróvári	Mosonmagyaróvári	3159	81.39
-Lengyeltóti	város	Somogy	Fonyódi	Lengyeltóti	3227	39.57
-Lenti	járásszékhely város	Zala	Lenti	Lenti	7971	73.8
-Létavértes	város	Hajdú-Bihar	Derecskei	Derecske-Létavértesi	7090	116.62
-Letenye	járásszékhely város	Zala	Letenyei	Letenyei	4053	41.74
-Lorinci	város	Heves	Hatvani	Hatvani	5880	23.53
-Maglód	város	Pest	Vecsési	Monori	11989	22.37
-Mágocs	város	Baranya	Hegyháti	Sásdi	2388	42.54
-Makó	járásszékhely város	Csongrád	Makói	Makói	23573	229.23
-Mándok	város	Szabolcs-Szatmár-Bereg	Záhonyi	Záhonyi	4188	28.91
-Marcali	járásszékhely város	Somogy	Marcali	Marcali	11567	104.4
-Máriapócs	város	Szabolcs-Szatmár-Bereg	Nyírbátori	Nyírbátori	2042	22.09
-Martfu	város	Jász-Nagykun-Szolnok	Szolnoki	Szolnoki	6435	23.08
-Martonvásár	járásszékhely város	Fejér	Martonvásári	Martonvásári	5811	31.25
-Mátészalka	járásszékhely város	Szabolcs-Szatmár-Bereg	Mátészalkai	Mátészalkai	16957	41.4
-Medgyesegyháza	város	Békés	Mezokovácsházai	Mezokovácsházai	3691	64.29
-Mélykút	város	Bács-Kiskun	Jánoshalmai	Jánoshalmai	5081	123.46
-Mezoberény	város	Békés	Békési	Békési	10896	118.53
-Mezocsát	járásszékhely város	Borsod-Abaúj-Zemplén	Mezocsáti	Mezocsáti	5891	103.08
-Mezohegyes	város	Békés	Mezokovácsházai	Mezokovácsházai	4994	155.44
-Mezokeresztes	város	Borsod-Abaúj-Zemplén	Mezokövesdi	Mezokövesdi	3803	74.25
-Mezokovácsháza	járásszékhely város	Békés	Mezokovácsházai	Mezokovácsházai	6049	62.59
-Mezokövesd	járásszékhely város	Borsod-Abaúj-Zemplén	Mezokövesdi	Mezokövesdi	16538	100.49
-Mezotúr	járásszékhely város	Jász-Nagykun-Szolnok	Mezotúri	Mezotúri	17337	289.72
-Mindszent	város	Csongrád	Hódmezovásárhelyi	Hódmezovásárhelyi	6685	59.35
-Miskolc	megyeszékhely megyei jogú város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	166823	236.66
-Mohács	járásszékhely város	Baranya	Mohácsi	Mohácsi	18604	112.23
-Monor	járásszékhely város	Pest	Monori	Monori	18395	46.79
-Mór	járásszékhely város	Fejér	Móri	Móri	14255	108.61
-Mórahalom	járásszékhely város	Csongrád	Mórahalmi	Mórahalomi	6067	83.15
-Mosonmagyaróvár	járásszékhely város	Gyor-Moson-Sopron	Mosonmagyaróvári	Mosonmagyaróvári	32720	84.11
-Nádudvar	város	Hajdú-Bihar	Hajdúszoboszlói	Püspökladányi	8768	225.91
-Nagyatád	járásszékhely város	Somogy	Nagyatádi	Nagyatádi	10734	70.6
-Nagybajom	város	Somogy	Kaposvári	Kadarkúti	3431	108.06
-Nagyecsed	város	Szabolcs-Szatmár-Bereg	Mátészalkai	Mátészalkai	6042	43.85
-Nagyhalász	város	Szabolcs-Szatmár-Bereg	Ibrányi	Ibrány-Nagyhalászi	5589	44.31
-Nagykálló	járásszékhely város	Szabolcs-Szatmár-Bereg	Nagykállói	Nagykállói	9870	68.52
-Nagykanizsa	megyei jogú város	Zala	Nagykanizsai	Nagykanizsai	49302	148.4
-Nagykáta	járásszékhely város	Pest	Nagykátai	Nagykátai	12563	81.61
-Nagykorös	járásszékhely város	Pest	Nagykorösi	Ceglédi	24433	227.94
-Nagymányok	város	Tolna	Bonyhádi	Bonyhádi	2273	10.68
-Nagymaros	város	Pest	Szobi	Váci	4770	34.37
-Nyékládháza	város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	5001	24.67
-Nyergesújfalu	város	Komárom-Esztergom	Esztergomi	Esztergomi	7552	39.5
-Nyíradony	járásszékhely város	Hajdú-Bihar	Nyíradonyi	Hajdúhadházi	7798	96.59
-Nyírbátor	járásszékhely város	Szabolcs-Szatmár-Bereg	Nyírbátori	Nyírbátori	12018	66.73
-Nyíregyháza	megyeszékhely megyei jogú város	Szabolcs-Szatmár-Bereg	Nyíregyházi	Nyíregyházai	117658	274.54
-Nyírlugos	város	Szabolcs-Szatmár-Bereg	Nyírbátori	Nyírbátori	2701	58.38
-Nyírmada	város	Szabolcs-Szatmár-Bereg	Vásárosnaményi	Baktalórántházai	4762	38.8
-Nyírtelek	város	Szabolcs-Szatmár-Bereg	Nyíregyházi	Nyíregyházai	6783	67.92
-Ócsa	város	Pest	Gyáli	Gyáli	9136	81.66
-Onga	város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	4775	31.49
-Orosháza	járásszékhely város	Békés	Orosházi	Orosházai	28910	202.22
-Oroszlány	járásszékhely város	Komárom-Esztergom	Oroszlányi	Oroszlányi	18627	75.86
-Ózd	járásszékhely város	Borsod-Abaúj-Zemplén	Ózdi	Ózdi	33750	91.65
-Orbottyán	város	Pest	Váci	Veresegyházi	7439	27.38
-Oriszentpéter	város	Vas	Körmendi	Oriszentpéteri	1167	33.56
-Örkény	város	Pest	Dabasi	Dabasi	4966	36.44
-Pacsa	város	Zala	Zalaegerszegi	Pacsai	1758	22.71
-Paks	járásszékhely város	Tolna	Paksi	Paksi	19510	154.08
-Pálháza	város	Borsod-Abaúj-Zemplén	Sátoraljaújhelyi	Sátoraljaújhelyi	1000	6.75
-Pannonhalma	járásszékhely város	Gyor-Moson-Sopron	Pannonhalmi	Pannonhalmai	3937	29.58
-Pápa	járásszékhely város	Veszprém	Pápai	Pápai	32052	91.62
-Pásztó	járásszékhely város	Nógrád	Pásztói	Pásztói	9569	72.6
-Pécel	város	Pest	Gödölloi	Gödölloi	15437	43.63
-Pécs	megyeszékhely megyei jogú város	Baranya	Pécsi	Pécsi	156801	162.77
-Pécsvárad	járásszékhely város	Baranya	Pécsváradi	Pécsváradi	4022	36.03
-Pétervására	járásszékhely város	Heves	Pétervásárai	Pétervásárai	2464	33.87
-Pilis	város	Pest	Monori	Monori	11460	47.35
-Piliscsaba	város	Pest	Pilisvörösvári	Pilisvörösvári	8381	25.57
-Pilisvörösvár	járásszékhely város	Pest	Pilisvörösvári	Pilisvörösvári	13768	24.3
-Polgár	város	Hajdú-Bihar	Hajdúnánási	Polgári	7915	97.44
-Polgárdi	járásszékhely város	Fejér	Polgárdi	Székesfehérvári	6964	72.16
-Pomáz	város	Pest	Szentendrei	Szentendrei	17101	49.03
-Pusztaszabolcs	város	Fejér	Dunaújvárosi	Adonyi	5997	51.67
-Putnok	járásszékhely város	Borsod-Abaúj-Zemplén	Putnoki	Ózdi	6634	34.72
-Püspökladány	járásszékhely város	Hajdú-Bihar	Püspökladányi	Püspökladányi	14698	186.95
-Rácalmás	város	Fejér	Dunaújvárosi	Dunaújvárosi	4488	40.64
-Ráckeve	járásszékhely város	Pest	Ráckevei	Ráckevei	10022	64.09
-Rakamaz	város	Szabolcs-Szatmár-Bereg	Nyíregyházi	Tiszavasvári	4545	42.64
-Rákóczifalva	város	Jász-Nagykun-Szolnok	Szolnoki	Szolnoki	5359	35.94
-Répcelak	város	Vas	Sárvári	Sárvári	2414	13.82
-Rétság	járásszékhely város	Nógrád	Rétsági	Rétsági	2895	19.81
-Rudabánya	város	Borsod-Abaúj-Zemplén	Kazincbarcikai	Kazincbarcikai	2488	16.46
-Sajóbábony	város	Borsod-Abaúj-Zemplén	Miskolci	Miskolci	2782	13.43
-Sajószentpéter	város	Borsod-Abaúj-Zemplén	Kazincbarcikai	Miskolci	11965	34.85
-Salgótarján	megyeszékhely megyei jogú város	Nógrád	Salgótarjáni	Salgótarjáni	36467	100.83
-Sándorfalva	város	Csongrád	Szegedi	Szegedi	7953	55.77
-Sárbogárd	járásszékhely város	Fejér	Sárbogárdi	Sárbogárdi	12448	189.33
-Sarkad	járásszékhely város	Békés	Sarkadi	Sarkadi	10011	125.57
-Sárospatak	járásszékhely város	Borsod-Abaúj-Zemplén	Sárospataki	Sárospataki	12590	139.11
-Sárvár	járásszékhely város	Vas	Sárvári	Sárvári	14764	64.65
-Sásd	járásszékhely város	Baranya	Hegyháti	Sásdi	3282	14.88
-Sátoraljaújhely	járásszékhely város	Borsod-Abaúj-Zemplén	Sátoraljaújhelyi	Sátoraljaújhelyi	15355	73.46
-Sellye	járásszékhely város	Baranya	Sellyei	Sellyei	2752	25.18
-Siklós	járásszékhely város	Baranya	Siklósi	Siklósi	9631	50.92
-Simontornya	város	Tolna	Tamási	Tamási	4028	33.83
-Siófok	járásszékhely város	Somogy	Siófoki	Siófoki	24375	124.66
-Solt	város	Bács-Kiskun	Kalocsai	Kalocsai	6285	132.67
-Soltvadkert	város	Bács-Kiskun	Kiskorösi	Kiskorösi	7433	108.86
-Sopron	megyei jogú város	Gyor-Moson-Sopron	Soproni	Sopron-Fertodi	61390	169.01
-Sülysáp	város	Pest	Nagykátai	Nagykátai	8292	47.19
-Sümeg	járásszékhely város	Veszprém	Sümegi	Sümegi	6190	64.13
-Szabadszállás	város	Bács-Kiskun	Kunszentmiklósi	Kunszentmiklósi	5896	164.62
-Szarvas	járásszékhely város	Békés	Szarvasi	Szarvasi	17007	161.57
-Százhalombatta	város	Pest	Érdi	Érdi	18896	28.06
-Szécsény	járásszékhely város	Nógrád	Szécsényi	Szécsényi	5682	45.83
-Szeged	megyeszékhely megyei jogú város	Csongrád	Szegedi	Szegedi	170052	281
-Szeghalom	járásszékhely város	Békés	Szeghalmi	Szeghalomi	9115	217.13
-Székesfehérvár	megyeszékhely megyei jogú város	Fejér	Székesfehérvári	Székesfehérvári	101722	170.89
-Szekszárd	megyeszékhely megyei jogú város	Tolna	Szekszárdi	Szekszárdi	33311	96.28
-Szendro	város	Borsod-Abaúj-Zemplén	Edelényi	Edelényi	4062	53.56
-Szentendre	járásszékhely város	Pest	Szentendrei	Szentendrei	26250	43.82
-Szentes	járásszékhely város	Csongrád	Szentesi	Szentesi	28476	353.25
-Szentgotthárd	járásszékhely város	Vas	Szentgotthárdi	Szentgotthárdi	8839	67.73
-Szentlorinc	járásszékhely város	Baranya	Szentlorinci	Szentlorinci	6848	27.81
-Szerencs	járásszékhely város	Borsod-Abaúj-Zemplén	Szerencsi	Szerencsi	9100	36.68
-Szigethalom	város	Pest	Szigetszentmiklósi	Ráckevei	17436	9.12
-Szigetszentmiklós	járásszékhely város	Pest	Szigetszentmiklósi	Ráckevei	34877	45.65
-Szigetvár	járásszékhely város	Baranya	Szigetvári	Szigetvári	10772	39.51
-Szikszó	járásszékhely város	Borsod-Abaúj-Zemplén	Szikszói	Szikszói	5348	36.23
-Szob	járásszékhely város	Pest	Szobi	Szobi	2915	17.97
-Szolnok	megyeszékhely megyei jogú város	Jász-Nagykun-Szolnok	Szolnoki	Szolnoki	74341	187.24
-Szombathely	megyeszékhely megyei jogú város	Vas	Szombathelyi	Szombathelyi	79348	97.5
-Tab	járásszékhely város	Somogy	Tabi	Tabi	4242	25.86
-Tamási	járásszékhely város	Tolna	Tamási	Tamási	8389	111.96
-Tápiószele	város	Pest	Nagykátai	Nagykátai	6122	36.99
-Tapolca	járásszékhely város	Veszprém	Tapolcai	Tapolcai	15596	63.46
-Tát	város	Komárom-Esztergom	Esztergomi	Esztergomi	5343	12.18
-Tata	járásszékhely város	Komárom-Esztergom	Tatai	Tatai	24906	78.16
-Tatabánya	megyeszékhely megyei jogú város	Komárom-Esztergom	Tatabányai	Tatabányai	70003	91.42
-Téglás	város	Hajdú-Bihar	Hajdúhadházi	Hajdúhadházi	6637	38.33
-Tét	járásszékhely város	Gyor-Moson-Sopron	Téti	Téti	3877	56.35
-Tiszacsege	város	Hajdú-Bihar	Balmazújvárosi	Balmazújvárosi	4481	136.4
-Tiszaföldvár	város	Jász-Nagykun-Szolnok	Kunszentmártoni	Kunszentmártoni	11120	80.34
-Tiszafüred	járásszékhely város	Jász-Nagykun-Szolnok	Tiszafüredi	Tiszafüredi	10694	162.18
-Tiszakécske	járásszékhely város	Bács-Kiskun	Tiszakécskei	Kecskeméti	11237	133.27
-Tiszalök	város	Szabolcs-Szatmár-Bereg	Tiszavasvári	Tiszavasvári	5517	58.72
-Tiszaújváros	járásszékhely város	Borsod-Abaúj-Zemplén	Tiszaújvárosi	Tiszaújvárosi	16557	46.04
-Tiszavasvári	járásszékhely város	Szabolcs-Szatmár-Bereg	Tiszavasvári	Tiszavasvári	12551	128.53
-Tokaj	járásszékhely város	Borsod-Abaúj-Zemplén	Tokaji	Tokaji	4839	28.2
-Tolna	járásszékhely város	Tolna	Tolnai	Szekszárdi	11367	71.07
-Tompa	város	Bács-Kiskun	Kiskunhalasi	Kiskunhalasi	4543	81.57
-Tótkomlós	város	Békés	Orosházi	Orosházai	5780	125.05
-Tököl	város	Pest	Szigetszentmiklósi	Ráckevei	10416	38.49
-Törökbálint	város	Pest	Érdi	Budaörsi	13587	29.4
-Törökszentmiklós	járásszékhely város	Jász-Nagykun-Szolnok	Törökszentmiklósi	Törökszentmiklósi	21043	185.16
-Tura	város	Pest	Aszódi	Aszódi	7731	55.92
-Túrkeve	város	Jász-Nagykun-Szolnok	Mezotúri	Mezotúri	8741	236.52
-Újfehértó	város	Szabolcs-Szatmár-Bereg	Nyíregyházi	Nagykállói	13005	140.88
-Újhartyán	város	Pest	Dabasi	Dabasi	2780	22.43
-Újkígyós	város	Békés	Békéscsabai	Békéscsabai	5235	54.92
-Újszász	város	Jász-Nagykun-Szolnok	Szolnoki	Szolnoki	6360	58.2
-Üllo	város	Pest	Vecsési	Monori	11435	48.1
-Vác	járásszékhely város	Pest	Váci	Váci	34810	61.6
-Vaja	város	Szabolcs-Szatmár-Bereg	Mátészalkai	Mátészalkai	3545	28.61
-Vámospércs	város	Hajdú-Bihar	Nyíradonyi	Hajdúhadházi	5263	58.19
-Várpalota	járásszékhely város	Veszprém	Várpalotai	Várpalotai	20305	77.26
-Vásárosnamény	járásszékhely város	Szabolcs-Szatmár-Bereg	Vásárosnaményi	Vásárosnaményi	8670	65.66
-Vasvár	járásszékhely város	Vas	Vasvári	Vasvári	4127	55.1
-Vecsés	járásszékhely város	Pest	Vecsési	Monori	20910	36.17
-Velence	város	Fejér	Gárdonyi	Gárdonyi	5359	33.37
-Vép	város	Vas	Szombathelyi	Szombathelyi	3358	32.89
-Veresegyház	város	Pest	Gödölloi	Veresegyházi	16892	28.56
-Verpelét	város	Heves	Egri	Egri	3812	53.18
-Veszprém	megyeszékhely megyei jogú város	Veszprém	Veszprémi	Veszprémi	64024	126.9
-Vészto	város	Békés	Szeghalmi	Szeghalomi	6680	125.7
-Villány	város	Baranya	Siklósi	Siklósi	2474	22.02
-Visegrád	város	Pest	Szentendrei	Szentendrei	1863	33.27
-Záhony	járásszékhely város	Szabolcs-Szatmár-Bereg	Záhonyi	Záhonyi	3978	6.96
-Zalaegerszeg	megyeszékhely megyei jogú város	Zala	Zalaegerszegi	Zalaegerszegi	61849	102.41
-Zalakaros	város	Zala	Nagykanizsai	Zalakarosi	1846	17.17
-Zalalövo	város	Zala	Zalaegerszegi	Zalaegerszegi	3021	52.64
-Zalaszentgrót	járásszékhely város	Zala	Zalaszentgróti	Zalaszentgróti	6473	74.65
-Zamárdi	város	Somogy	Siófoki	Siófoki	2363	45.15
-Zirc	járásszékhely város	Veszprém	Zirci	Zirci	7096	37.4
-Zsámbék	város	Pest	Budakeszi	Pilisvörösvári	5480	33.66
+Aba	vï¿½ros	Fejï¿½r	Szï¿½kesfehï¿½rvï¿½ri	Abai	4619	88.05
+Abï¿½dszalï¿½k	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Kunhegyesi	Tiszafï¿½redi	3922	132.23
+Abaï¿½jszï¿½ntï¿½	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Gï¿½nci	Abaï¿½j-Hegykï¿½zi	3088	47.36
+Abony	vï¿½ros	Pest	Ceglï¿½di	Ceglï¿½di	14876	127.97
+ï¿½cs	vï¿½ros	Komï¿½rom-Esztergom	Komï¿½romi	Komï¿½romi	6965	103.75
+Adony	vï¿½ros	Fejï¿½r	Dunaï¿½jvï¿½rosi	Adonyi	3912	61.05
+Ajak	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Kisvï¿½rdai	Kisvï¿½rdai	3528	24.76
+Ajka	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Ajkai	Ajkai	29058	95.05
+Albertirsa	vï¿½ros	Pest	Ceglï¿½di	Ceglï¿½di	12410	72.96
+Alsï¿½zsolca	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	5937	26.02
+Aszï¿½d	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Aszï¿½di	Aszï¿½di	6414	16.2
+Bï¿½bolna	vï¿½ros	Komï¿½rom-Esztergom	Komï¿½romi	Komï¿½romi	3654	33.55
+Bï¿½csalmï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Bï¿½csalmï¿½si	Bï¿½csalmï¿½si	6697	108.32
+Badacsonytomaj	vï¿½ros	Veszprï¿½m	Tapolcai	Tapolcai	2080	32.71
+Baja	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Bajai	Bajai	37330	177.61
+Baktalï¿½rï¿½nthï¿½za	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Baktalï¿½rï¿½nthï¿½zai	Baktalï¿½rï¿½nthï¿½zai	4302	35.25
+Balassagyarmat	jï¿½rï¿½sszï¿½khely vï¿½ros	Nï¿½grï¿½d	Balassagyarmati	Balassagyarmati	16133	23.74
+Balatonalmï¿½di	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Balatonalmï¿½di	Balatonalmï¿½di	9167	49.88
+Balatonboglï¿½r	vï¿½ros	Somogy	Fonyï¿½di	Fonyï¿½di	5932	32.04
+Balatonfï¿½ldvï¿½r	vï¿½ros	Somogy	Siï¿½foki	Balatonfï¿½ldvï¿½ri	2064	15.32
+Balatonfï¿½red	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Balatonfï¿½redi	Balatonfï¿½redi	13532	46.45
+Balatonfuzfo	vï¿½ros	Veszprï¿½m	Balatonalmï¿½di	Balatonalmï¿½di	4299	9.25
+Balatonkenese	vï¿½ros	Veszprï¿½m	Balatonalmï¿½di	Balatonalmï¿½di	3195	65.57
+Balatonlelle	vï¿½ros	Somogy	Fonyï¿½di	Fonyï¿½di	4735	43.23
+Balkï¿½ny	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nagykï¿½llï¿½i	Nagykï¿½llï¿½i	6215	89.99
+Balmazï¿½jvï¿½ros	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Balmazï¿½jvï¿½rosi	Balmazï¿½jvï¿½rosi	17354	205.45
+Barcs	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Barcsi	Barcsi	11378	122.9
+Bï¿½taszï¿½k	vï¿½ros	Tolna	Szekszï¿½rdi	Szekszï¿½rdi	6388	63.55
+Bï¿½tonyterenye	jï¿½rï¿½sszï¿½khely vï¿½ros	Nï¿½grï¿½d	Bï¿½tonyterenyei	Bï¿½tonyterenyei	12604	78.92
+Battonya	vï¿½ros	Bï¿½kï¿½s	Mezokovï¿½cshï¿½zai	Mezokovï¿½cshï¿½zai	5565	145.71
+Bï¿½kï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Bï¿½kï¿½si	Bï¿½kï¿½si	19763	127.23
+Bï¿½kï¿½scsaba	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Bï¿½kï¿½s	Bï¿½kï¿½scsabai	Bï¿½kï¿½scsabai	63752	193.93
+Bï¿½lapï¿½tfalva	jï¿½rï¿½sszï¿½khely vï¿½ros	Heves	Bï¿½lapï¿½tfalvai	Bï¿½lapï¿½tfalvai	2996	36.63
+Beled	vï¿½ros	Gyor-Moson-Sopron	Kapuvï¿½ri	Kapuvï¿½r-Beledi	2553	26.47
+Berettyï¿½ï¿½jfalu	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Berettyï¿½ï¿½jfalui	Berettyï¿½ï¿½jfalui	15167	170.98
+Berhida	vï¿½ros	Veszprï¿½m	Vï¿½rpalotai	Vï¿½rpalotai	5967	42.73
+Besenyszï¿½g	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Szolnoki	Szolnoki	3372	138.08
+Biatorbï¿½gy	vï¿½ros	Pest	Budakeszi	Budaï¿½rsi	12805	44.12
+Bicske	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Bicskei	Bicskei	11642	77.08
+Biharkeresztes	vï¿½ros	Hajdï¿½-Bihar	Berettyï¿½ï¿½jfalui	Berettyï¿½ï¿½jfalui	3888	49.26
+Bodajk	vï¿½ros	Fejï¿½r	Mï¿½ri	Mï¿½ri	4051	28.98
+Bï¿½ly	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Bï¿½lyi	Mohï¿½csi	3996	25.38
+Bonyhï¿½d	jï¿½rï¿½sszï¿½khely vï¿½ros	Tolna	Bonyhï¿½di	Bonyhï¿½di	13741	72.13
+Borsodnï¿½dasd	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	ï¿½zdi	ï¿½zdi	3007	28.08
+Budakalï¿½sz	vï¿½ros	Pest	Szentendrei	Szentendrei	10510	15.17
+Budakeszi	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Budakeszi	Budaï¿½rsi	14507	37.1
+Budaï¿½rs	vï¿½ros	Pest	Budakeszi	Budaï¿½rsi	29605	23.59
+Budapest	fovï¿½ros	Budapest		Budapest	1740041	525.09
+Bï¿½k	vï¿½ros	Vas	Koszegi	Csepregi	3493	20.86
+Ceglï¿½d	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Ceglï¿½di	Ceglï¿½di	37778	244.87
+Celldï¿½mï¿½lk	jï¿½rï¿½sszï¿½khely vï¿½ros	Vas	Celldï¿½mï¿½lki	Celldï¿½mï¿½lki	10786	52.39
+Cigï¿½nd	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Cigï¿½ndi	Bodrogkï¿½zi	2682	56.76
+Csï¿½kvï¿½r	vï¿½ros	Fejï¿½r	Bicskei	Bicskei	5221	118.76
+Csanï¿½dpalota	vï¿½ros	Csongrï¿½d	Makï¿½i	Makï¿½i	2968	77.76
+Csenger	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Csengeri	Csengeri	4730	36.16
+Csepreg	vï¿½ros	Vas	Koszegi	Csepregi	3384	49.54
+Csongrï¿½d	jï¿½rï¿½sszï¿½khely vï¿½ros	Csongrï¿½d	Csongrï¿½di	Csongrï¿½di	16846	173.89
+Csorna	jï¿½rï¿½sszï¿½khely vï¿½ros	Gyor-Moson-Sopron	Csornai	Csornai	10649	91.73
+Csorvï¿½s	vï¿½ros	Bï¿½kï¿½s	Bï¿½kï¿½scsabai	Oroshï¿½zai	4981	90.18
+Csurgï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Csurgï¿½i	Csurgï¿½i	5186	59.42
+Dabas	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Dabasi	Dabasi	16813	165.99
+Debrecen	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Hajdï¿½-Bihar	Debreceni	Debreceni	207594	461.66
+Demecser	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Kemecsei	Ibrï¿½ny-Nagyhalï¿½szi	4280	36.98
+Derecske	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Derecskei	Derecske-Lï¿½tavï¿½rtesi	8906	103.58
+Dï¿½vavï¿½nya	vï¿½ros	Bï¿½kï¿½s	Gyomaendrodi	Szeghalomi	7622	216.55
+Devecser	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Devecseri	Devecseri	4325	64.11
+Diï¿½sd	vï¿½ros	Pest	ï¿½rdi	ï¿½rdi	9522	5.75
+Dombï¿½vï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Tolna	Dombï¿½vï¿½ri	Dombï¿½vï¿½ri	19494	78.48
+Dombrï¿½d	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Kisvï¿½rdai	Kisvï¿½rdai	3900	51.84
+Dorog	vï¿½ros	Komï¿½rom-Esztergom	Esztergomi	Dorogi	11996	11.54
+Dunafï¿½ldvï¿½r	vï¿½ros	Tolna	Paksi	Paksi	8666	111.42
+Dunaharaszti	vï¿½ros	Pest	Szigetszentmiklï¿½si	Rï¿½ckevei	20260	29.17
+Dunakeszi	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Dunakeszi	Dunakeszi	40334	31.06
+Dunaï¿½jvï¿½ros	megyei jogï¿½ vï¿½ros	Fejï¿½r	Dunaï¿½jvï¿½rosi	Dunaï¿½jvï¿½rosi	48010	52.67
+Dunavarsï¿½ny	vï¿½ros	Pest	Szigetszentmiklï¿½si	Rï¿½ckevei	7480	22.52
+Dunavecse	vï¿½ros	Bï¿½cs-Kiskun	Kunszentmiklï¿½si	Kunszentmiklï¿½si	3937	66.77
+Edelï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Edelï¿½nyi	Edelï¿½nyi	10019	56.84
+Eger	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Heves	Egri	Egri	56166	92.21
+Elek	vï¿½ros	Bï¿½kï¿½s	Gyulai	Gyulai	4816	54.91
+Emod	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	4895	49.37
+Encs	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Encsi	Encsi	6201	25.8
+Enying	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Enyingi	Enyingi	6768	82.78
+Ercsi	vï¿½ros	Fejï¿½r	Martonvï¿½sï¿½ri	Martonvï¿½sï¿½ri	7999	65.31
+ï¿½rd	megyei jogï¿½ vï¿½ros	Pest	ï¿½rdi	ï¿½rdi	65277	60.54
+Esztergom	jï¿½rï¿½sszï¿½khely vï¿½ros	Komï¿½rom-Esztergom	Esztergomi	Esztergomi	30434	99.95
+Fegyvernek	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Tï¿½rï¿½kszentmiklï¿½si	Tï¿½rï¿½kszentmiklï¿½si	6415	71.48
+Fehï¿½rgyarmat	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Fehï¿½rgyarmati	Fehï¿½rgyarmati	7861	52.46
+Felsozsolca	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	6750	16.25
+Fertod	vï¿½ros	Gyor-Moson-Sopron	Soproni	Sopron-Fertodi	3461	48.56
+Fertoszentmiklï¿½s	vï¿½ros	Gyor-Moson-Sopron	Soproni	Sopron-Fertodi	3891	39.39
+Fonyï¿½d	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Fonyï¿½di	Fonyï¿½di	4728	53.55
+Fï¿½t	vï¿½ros	Pest	Dunakeszi	Dunakeszi	18968	37.4
+Fï¿½zesabony	jï¿½rï¿½sszï¿½khely vï¿½ros	Heves	Fï¿½zesabonyi	Fï¿½zesabonyi	7781	46.34
+Fï¿½zesgyarmat	vï¿½ros	Bï¿½kï¿½s	Szeghalmi	Szeghalomi	5665	127.34
+Gï¿½rdony	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Gï¿½rdonyi	Gï¿½rdonyi	9927	63.5
+Gï¿½d	vï¿½ros	Pest	Dunakeszi	Dunakeszi	18565	22.23
+Gï¿½dï¿½llo	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Gï¿½dï¿½lloi	Gï¿½dï¿½lloi	34172	61.92
+Gï¿½nc	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Gï¿½nci	Abaï¿½j-Hegykï¿½zi	1951	37.27
+Gyï¿½l	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Gyï¿½li	Gyï¿½li	23486	24.93
+Gyomaendrod	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Gyomaendrodi	Szarvasi	13674	303.94
+Gyï¿½mro	vï¿½ros	Pest	Monori	Monori	16670	26.51
+Gyï¿½ngyï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Heves	Gyï¿½ngyï¿½si	Gyï¿½ngyï¿½si	32385	55.31
+Gyï¿½ngyï¿½spata	vï¿½ros	Heves	Gyï¿½ngyï¿½si	Gyï¿½ngyï¿½si	2472	60.75
+Gyï¿½nk	vï¿½ros	Tolna	Tamï¿½si	Tamï¿½si	2066	38.12
+Gyor	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Gyor-Moson-Sopron	Gyori	Gyori	131564	174.62
+Gyula	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Gyulai	Gyulai	31679	255.8
+Hajdï¿½bï¿½szï¿½rmï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½bï¿½szï¿½rmï¿½nyi	Hajdï¿½bï¿½szï¿½rmï¿½nyi	31306	370.78
+Hajdï¿½dorog	vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½bï¿½szï¿½rmï¿½nyi	Hajdï¿½bï¿½szï¿½rmï¿½nyi	8888	100.65
+Hajdï¿½hadhï¿½z	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½hadhï¿½zi	Hajdï¿½hadhï¿½zi	12458	87.8
+Hajdï¿½nï¿½nï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½nï¿½nï¿½si	Hajdï¿½bï¿½szï¿½rmï¿½nyi	16975	259.62
+Hajdï¿½sï¿½mson	vï¿½ros	Hajdï¿½-Bihar	Debreceni	Hajdï¿½hadhï¿½zi	13105	69.47
+Hajdï¿½szoboszlï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½szoboszlï¿½i	Hajdï¿½szoboszlï¿½i	23309	238.7
+Hajï¿½s	vï¿½ros	Bï¿½cs-Kiskun	Kalocsai	Kalocsai	3134	89.92
+Halï¿½sztelek	vï¿½ros	Pest	Szigetszentmiklï¿½si	Rï¿½ckevei	9310	8.64
+Harkï¿½ny	vï¿½ros	Baranya	Siklï¿½si	Siklï¿½si	4065	25.69
+Hatvan	jï¿½rï¿½sszï¿½khely vï¿½ros	Heves	Hatvani	Hatvani	20259	66.31
+Herend	vï¿½ros	Veszprï¿½m	Veszprï¿½mi	Veszprï¿½mi	3339	19.56
+Heves	jï¿½rï¿½sszï¿½khely vï¿½ros	Heves	Hevesi	Hevesi	10464	99.31
+Hï¿½vï¿½z	vï¿½ros	Zala	Keszthelyi	Hï¿½vï¿½zi	4375	8.31
+Hï¿½dmezovï¿½sï¿½rhely	megyei jogï¿½ vï¿½ros	Csongrï¿½d	Hï¿½dmezovï¿½sï¿½rhelyi	Hï¿½dmezovï¿½sï¿½rhelyi	46522	487.98
+Ibrï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Ibrï¿½nyi	Ibrï¿½ny-Nagyhalï¿½szi	6842	60.39
+Igal	vï¿½ros	Somogy	Kaposvï¿½ri	Kaposvï¿½ri	1308	36.06
+Isaszeg	vï¿½ros	Pest	Gï¿½dï¿½lloi	Gï¿½dï¿½lloi	11397	54.84
+Izsï¿½k	vï¿½ros	Bï¿½cs-Kiskun	Kiskorï¿½si	Kiskorï¿½si	5904	113.76
+Jï¿½noshalma	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Jï¿½noshalmai	Jï¿½noshalmai	8937	132.21
+Jï¿½noshï¿½za	vï¿½ros	Vas	Celldï¿½mï¿½lki	Celldï¿½mï¿½lki	2401	23.41
+Jï¿½nossomorja	vï¿½ros	Gyor-Moson-Sopron	Mosonmagyarï¿½vï¿½ri	Mosonmagyarï¿½vï¿½ri	5912	148.96
+Jï¿½szapï¿½ti	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Jï¿½szapï¿½ti	Jï¿½szberï¿½nyi	8947	78.16
+Jï¿½szï¿½rokszï¿½llï¿½s	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Jï¿½szberï¿½nyi	Jï¿½szberï¿½nyi	7806	77.17
+Jï¿½szberï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Jï¿½szberï¿½nyi	Jï¿½szberï¿½nyi	26924	221.35
+Jï¿½szfï¿½nyszaru	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Jï¿½szberï¿½nyi	Jï¿½szberï¿½nyi	5621	76.16
+Jï¿½szkisï¿½r	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Jï¿½szapï¿½ti	Jï¿½szberï¿½nyi	5165	130.11
+Kaba	vï¿½ros	Hajdï¿½-Bihar	Pï¿½spï¿½kladï¿½nyi	Pï¿½spï¿½kladï¿½nyi	5932	95.04
+Kadarkï¿½t	vï¿½ros	Somogy	Kaposvï¿½ri	Kadarkï¿½ti	2583	39.74
+Kalocsa	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Kalocsai	Kalocsai	16959	53.18
+Kaposvï¿½r	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Somogy	Kaposvï¿½ri	Kaposvï¿½ri	67686	113.59
+Kapuvï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Gyor-Moson-Sopron	Kapuvï¿½ri	Kapuvï¿½r-Beledi	10353	96.05
+Karcag	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Karcagi	Karcagi	19980	368.63
+Kazincbarcika	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Kazincbarcikai	Kazincbarcikai	28664	36.67
+Kecel	vï¿½ros	Bï¿½cs-Kiskun	Kiskorï¿½si	Kiskorï¿½si	8687	114.48
+Kecskemï¿½t	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Bï¿½cs-Kiskun	Kecskemï¿½ti	Kecskemï¿½ti	114226	322.57
+Kemecse	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Kemecsei	Ibrï¿½ny-Nagyhalï¿½szi	4736	38.94
+Kenderes	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Karcagi	Karcagi	4647	111.24
+Kerekegyhï¿½za	vï¿½ros	Bï¿½cs-Kiskun	Kecskemï¿½ti	Kecskemï¿½ti	6300	81.28
+Kerepes	vï¿½ros	Pest	Gï¿½dï¿½lloi	Gï¿½dï¿½lloi	10087	24.08
+Keszthely	jï¿½rï¿½sszï¿½khely vï¿½ros	Zala	Keszthelyi	Keszthelyi	20895	75.98
+Kisbï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Komï¿½rom-Esztergom	Kisbï¿½ri	Kisbï¿½ri	5282	52.16
+Kiskï¿½re	vï¿½ros	Heves	Hevesi	Hevesi	2653	68.42
+Kiskorï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Kiskorï¿½si	Kiskorï¿½si	14259	102.23
+Kiskunfï¿½legyhï¿½za	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Kiskunfï¿½legyhï¿½zi	Kiskunfï¿½legyhï¿½zai	29972	256.3
+Kiskunhalas	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Kiskunhalasi	Kiskunhalasi	28427	227.58
+Kiskunmajsa	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Kiskunmajsai	Kiskunmajsai	11766	221.99
+Kistarcsa	vï¿½ros	Pest	Gï¿½dï¿½lloi	Gï¿½dï¿½lloi	11975	11.02
+Kistelek	jï¿½rï¿½sszï¿½khely vï¿½ros	Csongrï¿½d	Kisteleki	Kisteleki	7020	69.19
+Kisï¿½jszï¿½llï¿½s	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Karcagi	Karcagi	11367	205.27
+Kisvï¿½rda	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Kisvï¿½rdai	Kisvï¿½rdai	16473	35.91
+Komï¿½di	vï¿½ros	Hajdï¿½-Bihar	Berettyï¿½ï¿½jfalui	Berettyï¿½ï¿½jfalui	5172	144.65
+Komï¿½rom	jï¿½rï¿½sszï¿½khely vï¿½ros	Komï¿½rom-Esztergom	Komï¿½romi	Komï¿½romi	19729	70.16
+Komlï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Komlï¿½i	Komlï¿½i	25020	46.55
+Kondoros	vï¿½ros	Bï¿½kï¿½s	Szarvasi	Szarvasi	5201	81.84
+Kozï¿½rmisleny	vï¿½ros	Baranya	Pï¿½csi	Pï¿½csi	6109	14.45
+Kï¿½rmend	jï¿½rï¿½sszï¿½khely vï¿½ros	Vas	Kï¿½rmendi	Kï¿½rmendi	11676	52.79
+Kï¿½rï¿½sladï¿½ny	vï¿½ros	Bï¿½kï¿½s	Szeghalmi	Szeghalomi	4582	123.79
+Koszeg	jï¿½rï¿½sszï¿½khely vï¿½ros	Vas	Koszegi	Koszegi	12055	54.66
+Kunhegyes	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Kunhegyesi	Tiszafï¿½redi	7483	148.93
+Kunszentmï¿½rton	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Kunszentmï¿½rtoni	Kunszentmï¿½rtoni	8373	143.65
+Kunszentmiklï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Kunszentmiklï¿½si	Kunszentmiklï¿½si	8515	172.11
+Lï¿½batlan	vï¿½ros	Komï¿½rom-Esztergom	Esztergomi	Esztergomi	4992	26.35
+Lajosmizse	vï¿½ros	Bï¿½cs-Kiskun	Kecskemï¿½ti	Kecskemï¿½ti	11073	164.66
+Lï¿½bï¿½ny	vï¿½ros	Gyor-Moson-Sopron	Mosonmagyarï¿½vï¿½ri	Mosonmagyarï¿½vï¿½ri	3159	81.39
+Lengyeltï¿½ti	vï¿½ros	Somogy	Fonyï¿½di	Lengyeltï¿½ti	3227	39.57
+Lenti	jï¿½rï¿½sszï¿½khely vï¿½ros	Zala	Lenti	Lenti	7971	73.8
+Lï¿½tavï¿½rtes	vï¿½ros	Hajdï¿½-Bihar	Derecskei	Derecske-Lï¿½tavï¿½rtesi	7090	116.62
+Letenye	jï¿½rï¿½sszï¿½khely vï¿½ros	Zala	Letenyei	Letenyei	4053	41.74
+Lorinci	vï¿½ros	Heves	Hatvani	Hatvani	5880	23.53
+Maglï¿½d	vï¿½ros	Pest	Vecsï¿½si	Monori	11989	22.37
+Mï¿½gocs	vï¿½ros	Baranya	Hegyhï¿½ti	Sï¿½sdi	2388	42.54
+Makï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Csongrï¿½d	Makï¿½i	Makï¿½i	23573	229.23
+Mï¿½ndok	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Zï¿½honyi	Zï¿½honyi	4188	28.91
+Marcali	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Marcali	Marcali	11567	104.4
+Mï¿½riapï¿½cs	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½rbï¿½tori	Nyï¿½rbï¿½tori	2042	22.09
+Martfu	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Szolnoki	Szolnoki	6435	23.08
+Martonvï¿½sï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Martonvï¿½sï¿½ri	Martonvï¿½sï¿½ri	5811	31.25
+Mï¿½tï¿½szalka	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Mï¿½tï¿½szalkai	Mï¿½tï¿½szalkai	16957	41.4
+Medgyesegyhï¿½za	vï¿½ros	Bï¿½kï¿½s	Mezokovï¿½cshï¿½zai	Mezokovï¿½cshï¿½zai	3691	64.29
+Mï¿½lykï¿½t	vï¿½ros	Bï¿½cs-Kiskun	Jï¿½noshalmai	Jï¿½noshalmai	5081	123.46
+Mezoberï¿½ny	vï¿½ros	Bï¿½kï¿½s	Bï¿½kï¿½si	Bï¿½kï¿½si	10896	118.53
+Mezocsï¿½t	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Mezocsï¿½ti	Mezocsï¿½ti	5891	103.08
+Mezohegyes	vï¿½ros	Bï¿½kï¿½s	Mezokovï¿½cshï¿½zai	Mezokovï¿½cshï¿½zai	4994	155.44
+Mezokeresztes	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Mezokï¿½vesdi	Mezokï¿½vesdi	3803	74.25
+Mezokovï¿½cshï¿½za	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Mezokovï¿½cshï¿½zai	Mezokovï¿½cshï¿½zai	6049	62.59
+Mezokï¿½vesd	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Mezokï¿½vesdi	Mezokï¿½vesdi	16538	100.49
+Mezotï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Mezotï¿½ri	Mezotï¿½ri	17337	289.72
+Mindszent	vï¿½ros	Csongrï¿½d	Hï¿½dmezovï¿½sï¿½rhelyi	Hï¿½dmezovï¿½sï¿½rhelyi	6685	59.35
+Miskolc	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	166823	236.66
+Mohï¿½cs	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Mohï¿½csi	Mohï¿½csi	18604	112.23
+Monor	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Monori	Monori	18395	46.79
+Mï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Mï¿½ri	Mï¿½ri	14255	108.61
+Mï¿½rahalom	jï¿½rï¿½sszï¿½khely vï¿½ros	Csongrï¿½d	Mï¿½rahalmi	Mï¿½rahalomi	6067	83.15
+Mosonmagyarï¿½vï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Gyor-Moson-Sopron	Mosonmagyarï¿½vï¿½ri	Mosonmagyarï¿½vï¿½ri	32720	84.11
+Nï¿½dudvar	vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½szoboszlï¿½i	Pï¿½spï¿½kladï¿½nyi	8768	225.91
+Nagyatï¿½d	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Nagyatï¿½di	Nagyatï¿½di	10734	70.6
+Nagybajom	vï¿½ros	Somogy	Kaposvï¿½ri	Kadarkï¿½ti	3431	108.06
+Nagyecsed	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Mï¿½tï¿½szalkai	Mï¿½tï¿½szalkai	6042	43.85
+Nagyhalï¿½sz	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Ibrï¿½nyi	Ibrï¿½ny-Nagyhalï¿½szi	5589	44.31
+Nagykï¿½llï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nagykï¿½llï¿½i	Nagykï¿½llï¿½i	9870	68.52
+Nagykanizsa	megyei jogï¿½ vï¿½ros	Zala	Nagykanizsai	Nagykanizsai	49302	148.4
+Nagykï¿½ta	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Nagykï¿½tai	Nagykï¿½tai	12563	81.61
+Nagykorï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Nagykorï¿½si	Ceglï¿½di	24433	227.94
+Nagymï¿½nyok	vï¿½ros	Tolna	Bonyhï¿½di	Bonyhï¿½di	2273	10.68
+Nagymaros	vï¿½ros	Pest	Szobi	Vï¿½ci	4770	34.37
+Nyï¿½klï¿½dhï¿½za	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	5001	24.67
+Nyergesï¿½jfalu	vï¿½ros	Komï¿½rom-Esztergom	Esztergomi	Esztergomi	7552	39.5
+Nyï¿½radony	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Nyï¿½radonyi	Hajdï¿½hadhï¿½zi	7798	96.59
+Nyï¿½rbï¿½tor	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½rbï¿½tori	Nyï¿½rbï¿½tori	12018	66.73
+Nyï¿½regyhï¿½za	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½regyhï¿½zi	Nyï¿½regyhï¿½zai	117658	274.54
+Nyï¿½rlugos	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½rbï¿½tori	Nyï¿½rbï¿½tori	2701	58.38
+Nyï¿½rmada	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Vï¿½sï¿½rosnamï¿½nyi	Baktalï¿½rï¿½nthï¿½zai	4762	38.8
+Nyï¿½rtelek	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½regyhï¿½zi	Nyï¿½regyhï¿½zai	6783	67.92
+ï¿½csa	vï¿½ros	Pest	Gyï¿½li	Gyï¿½li	9136	81.66
+Onga	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	4775	31.49
+Oroshï¿½za	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Oroshï¿½zi	Oroshï¿½zai	28910	202.22
+Oroszlï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Komï¿½rom-Esztergom	Oroszlï¿½nyi	Oroszlï¿½nyi	18627	75.86
+ï¿½zd	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	ï¿½zdi	ï¿½zdi	33750	91.65
+Orbottyï¿½n	vï¿½ros	Pest	Vï¿½ci	Veresegyhï¿½zi	7439	27.38
+Oriszentpï¿½ter	vï¿½ros	Vas	Kï¿½rmendi	Oriszentpï¿½teri	1167	33.56
+ï¿½rkï¿½ny	vï¿½ros	Pest	Dabasi	Dabasi	4966	36.44
+Pacsa	vï¿½ros	Zala	Zalaegerszegi	Pacsai	1758	22.71
+Paks	jï¿½rï¿½sszï¿½khely vï¿½ros	Tolna	Paksi	Paksi	19510	154.08
+Pï¿½lhï¿½za	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Sï¿½toraljaï¿½jhelyi	Sï¿½toraljaï¿½jhelyi	1000	6.75
+Pannonhalma	jï¿½rï¿½sszï¿½khely vï¿½ros	Gyor-Moson-Sopron	Pannonhalmi	Pannonhalmai	3937	29.58
+Pï¿½pa	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Pï¿½pai	Pï¿½pai	32052	91.62
+Pï¿½sztï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Nï¿½grï¿½d	Pï¿½sztï¿½i	Pï¿½sztï¿½i	9569	72.6
+Pï¿½cel	vï¿½ros	Pest	Gï¿½dï¿½lloi	Gï¿½dï¿½lloi	15437	43.63
+Pï¿½cs	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Baranya	Pï¿½csi	Pï¿½csi	156801	162.77
+Pï¿½csvï¿½rad	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Pï¿½csvï¿½radi	Pï¿½csvï¿½radi	4022	36.03
+Pï¿½tervï¿½sï¿½ra	jï¿½rï¿½sszï¿½khely vï¿½ros	Heves	Pï¿½tervï¿½sï¿½rai	Pï¿½tervï¿½sï¿½rai	2464	33.87
+Pilis	vï¿½ros	Pest	Monori	Monori	11460	47.35
+Piliscsaba	vï¿½ros	Pest	Pilisvï¿½rï¿½svï¿½ri	Pilisvï¿½rï¿½svï¿½ri	8381	25.57
+Pilisvï¿½rï¿½svï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Pilisvï¿½rï¿½svï¿½ri	Pilisvï¿½rï¿½svï¿½ri	13768	24.3
+Polgï¿½r	vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½nï¿½nï¿½si	Polgï¿½ri	7915	97.44
+Polgï¿½rdi	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Polgï¿½rdi	Szï¿½kesfehï¿½rvï¿½ri	6964	72.16
+Pomï¿½z	vï¿½ros	Pest	Szentendrei	Szentendrei	17101	49.03
+Pusztaszabolcs	vï¿½ros	Fejï¿½r	Dunaï¿½jvï¿½rosi	Adonyi	5997	51.67
+Putnok	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Putnoki	ï¿½zdi	6634	34.72
+Pï¿½spï¿½kladï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Hajdï¿½-Bihar	Pï¿½spï¿½kladï¿½nyi	Pï¿½spï¿½kladï¿½nyi	14698	186.95
+Rï¿½calmï¿½s	vï¿½ros	Fejï¿½r	Dunaï¿½jvï¿½rosi	Dunaï¿½jvï¿½rosi	4488	40.64
+Rï¿½ckeve	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Rï¿½ckevei	Rï¿½ckevei	10022	64.09
+Rakamaz	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½regyhï¿½zi	Tiszavasvï¿½ri	4545	42.64
+Rï¿½kï¿½czifalva	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Szolnoki	Szolnoki	5359	35.94
+Rï¿½pcelak	vï¿½ros	Vas	Sï¿½rvï¿½ri	Sï¿½rvï¿½ri	2414	13.82
+Rï¿½tsï¿½g	jï¿½rï¿½sszï¿½khely vï¿½ros	Nï¿½grï¿½d	Rï¿½tsï¿½gi	Rï¿½tsï¿½gi	2895	19.81
+Rudabï¿½nya	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Kazincbarcikai	Kazincbarcikai	2488	16.46
+Sajï¿½bï¿½bony	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Miskolci	Miskolci	2782	13.43
+Sajï¿½szentpï¿½ter	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Kazincbarcikai	Miskolci	11965	34.85
+Salgï¿½tarjï¿½n	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Nï¿½grï¿½d	Salgï¿½tarjï¿½ni	Salgï¿½tarjï¿½ni	36467	100.83
+Sï¿½ndorfalva	vï¿½ros	Csongrï¿½d	Szegedi	Szegedi	7953	55.77
+Sï¿½rbogï¿½rd	jï¿½rï¿½sszï¿½khely vï¿½ros	Fejï¿½r	Sï¿½rbogï¿½rdi	Sï¿½rbogï¿½rdi	12448	189.33
+Sarkad	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Sarkadi	Sarkadi	10011	125.57
+Sï¿½rospatak	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Sï¿½rospataki	Sï¿½rospataki	12590	139.11
+Sï¿½rvï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Vas	Sï¿½rvï¿½ri	Sï¿½rvï¿½ri	14764	64.65
+Sï¿½sd	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Hegyhï¿½ti	Sï¿½sdi	3282	14.88
+Sï¿½toraljaï¿½jhely	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Sï¿½toraljaï¿½jhelyi	Sï¿½toraljaï¿½jhelyi	15355	73.46
+Sellye	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Sellyei	Sellyei	2752	25.18
+Siklï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Siklï¿½si	Siklï¿½si	9631	50.92
+Simontornya	vï¿½ros	Tolna	Tamï¿½si	Tamï¿½si	4028	33.83
+Siï¿½fok	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Siï¿½foki	Siï¿½foki	24375	124.66
+Solt	vï¿½ros	Bï¿½cs-Kiskun	Kalocsai	Kalocsai	6285	132.67
+Soltvadkert	vï¿½ros	Bï¿½cs-Kiskun	Kiskorï¿½si	Kiskorï¿½si	7433	108.86
+Sopron	megyei jogï¿½ vï¿½ros	Gyor-Moson-Sopron	Soproni	Sopron-Fertodi	61390	169.01
+Sï¿½lysï¿½p	vï¿½ros	Pest	Nagykï¿½tai	Nagykï¿½tai	8292	47.19
+Sï¿½meg	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Sï¿½megi	Sï¿½megi	6190	64.13
+Szabadszï¿½llï¿½s	vï¿½ros	Bï¿½cs-Kiskun	Kunszentmiklï¿½si	Kunszentmiklï¿½si	5896	164.62
+Szarvas	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Szarvasi	Szarvasi	17007	161.57
+Szï¿½zhalombatta	vï¿½ros	Pest	ï¿½rdi	ï¿½rdi	18896	28.06
+Szï¿½csï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Nï¿½grï¿½d	Szï¿½csï¿½nyi	Szï¿½csï¿½nyi	5682	45.83
+Szeged	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Csongrï¿½d	Szegedi	Szegedi	170052	281
+Szeghalom	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½kï¿½s	Szeghalmi	Szeghalomi	9115	217.13
+Szï¿½kesfehï¿½rvï¿½r	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Fejï¿½r	Szï¿½kesfehï¿½rvï¿½ri	Szï¿½kesfehï¿½rvï¿½ri	101722	170.89
+Szekszï¿½rd	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Tolna	Szekszï¿½rdi	Szekszï¿½rdi	33311	96.28
+Szendro	vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Edelï¿½nyi	Edelï¿½nyi	4062	53.56
+Szentendre	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Szentendrei	Szentendrei	26250	43.82
+Szentes	jï¿½rï¿½sszï¿½khely vï¿½ros	Csongrï¿½d	Szentesi	Szentesi	28476	353.25
+Szentgotthï¿½rd	jï¿½rï¿½sszï¿½khely vï¿½ros	Vas	Szentgotthï¿½rdi	Szentgotthï¿½rdi	8839	67.73
+Szentlorinc	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Szentlorinci	Szentlorinci	6848	27.81
+Szerencs	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Szerencsi	Szerencsi	9100	36.68
+Szigethalom	vï¿½ros	Pest	Szigetszentmiklï¿½si	Rï¿½ckevei	17436	9.12
+Szigetszentmiklï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Szigetszentmiklï¿½si	Rï¿½ckevei	34877	45.65
+Szigetvï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Baranya	Szigetvï¿½ri	Szigetvï¿½ri	10772	39.51
+Szikszï¿½	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Szikszï¿½i	Szikszï¿½i	5348	36.23
+Szob	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Szobi	Szobi	2915	17.97
+Szolnok	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Szolnoki	Szolnoki	74341	187.24
+Szombathely	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Vas	Szombathelyi	Szombathelyi	79348	97.5
+Tab	jï¿½rï¿½sszï¿½khely vï¿½ros	Somogy	Tabi	Tabi	4242	25.86
+Tamï¿½si	jï¿½rï¿½sszï¿½khely vï¿½ros	Tolna	Tamï¿½si	Tamï¿½si	8389	111.96
+Tï¿½piï¿½szele	vï¿½ros	Pest	Nagykï¿½tai	Nagykï¿½tai	6122	36.99
+Tapolca	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Tapolcai	Tapolcai	15596	63.46
+Tï¿½t	vï¿½ros	Komï¿½rom-Esztergom	Esztergomi	Esztergomi	5343	12.18
+Tata	jï¿½rï¿½sszï¿½khely vï¿½ros	Komï¿½rom-Esztergom	Tatai	Tatai	24906	78.16
+Tatabï¿½nya	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Komï¿½rom-Esztergom	Tatabï¿½nyai	Tatabï¿½nyai	70003	91.42
+Tï¿½glï¿½s	vï¿½ros	Hajdï¿½-Bihar	Hajdï¿½hadhï¿½zi	Hajdï¿½hadhï¿½zi	6637	38.33
+Tï¿½t	jï¿½rï¿½sszï¿½khely vï¿½ros	Gyor-Moson-Sopron	Tï¿½ti	Tï¿½ti	3877	56.35
+Tiszacsege	vï¿½ros	Hajdï¿½-Bihar	Balmazï¿½jvï¿½rosi	Balmazï¿½jvï¿½rosi	4481	136.4
+Tiszafï¿½ldvï¿½r	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Kunszentmï¿½rtoni	Kunszentmï¿½rtoni	11120	80.34
+Tiszafï¿½red	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Tiszafï¿½redi	Tiszafï¿½redi	10694	162.18
+Tiszakï¿½cske	jï¿½rï¿½sszï¿½khely vï¿½ros	Bï¿½cs-Kiskun	Tiszakï¿½cskei	Kecskemï¿½ti	11237	133.27
+Tiszalï¿½k	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Tiszavasvï¿½ri	Tiszavasvï¿½ri	5517	58.72
+Tiszaï¿½jvï¿½ros	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Tiszaï¿½jvï¿½rosi	Tiszaï¿½jvï¿½rosi	16557	46.04
+Tiszavasvï¿½ri	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Tiszavasvï¿½ri	Tiszavasvï¿½ri	12551	128.53
+Tokaj	jï¿½rï¿½sszï¿½khely vï¿½ros	Borsod-Abaï¿½j-Zemplï¿½n	Tokaji	Tokaji	4839	28.2
+Tolna	jï¿½rï¿½sszï¿½khely vï¿½ros	Tolna	Tolnai	Szekszï¿½rdi	11367	71.07
+Tompa	vï¿½ros	Bï¿½cs-Kiskun	Kiskunhalasi	Kiskunhalasi	4543	81.57
+Tï¿½tkomlï¿½s	vï¿½ros	Bï¿½kï¿½s	Oroshï¿½zi	Oroshï¿½zai	5780	125.05
+Tï¿½kï¿½l	vï¿½ros	Pest	Szigetszentmiklï¿½si	Rï¿½ckevei	10416	38.49
+Tï¿½rï¿½kbï¿½lint	vï¿½ros	Pest	ï¿½rdi	Budaï¿½rsi	13587	29.4
+Tï¿½rï¿½kszentmiklï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Tï¿½rï¿½kszentmiklï¿½si	Tï¿½rï¿½kszentmiklï¿½si	21043	185.16
+Tura	vï¿½ros	Pest	Aszï¿½di	Aszï¿½di	7731	55.92
+Tï¿½rkeve	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Mezotï¿½ri	Mezotï¿½ri	8741	236.52
+ï¿½jfehï¿½rtï¿½	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Nyï¿½regyhï¿½zi	Nagykï¿½llï¿½i	13005	140.88
+ï¿½jhartyï¿½n	vï¿½ros	Pest	Dabasi	Dabasi	2780	22.43
+ï¿½jkï¿½gyï¿½s	vï¿½ros	Bï¿½kï¿½s	Bï¿½kï¿½scsabai	Bï¿½kï¿½scsabai	5235	54.92
+ï¿½jszï¿½sz	vï¿½ros	Jï¿½sz-Nagykun-Szolnok	Szolnoki	Szolnoki	6360	58.2
+ï¿½llo	vï¿½ros	Pest	Vecsï¿½si	Monori	11435	48.1
+Vï¿½c	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Vï¿½ci	Vï¿½ci	34810	61.6
+Vaja	vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Mï¿½tï¿½szalkai	Mï¿½tï¿½szalkai	3545	28.61
+Vï¿½mospï¿½rcs	vï¿½ros	Hajdï¿½-Bihar	Nyï¿½radonyi	Hajdï¿½hadhï¿½zi	5263	58.19
+Vï¿½rpalota	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Vï¿½rpalotai	Vï¿½rpalotai	20305	77.26
+Vï¿½sï¿½rosnamï¿½ny	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Vï¿½sï¿½rosnamï¿½nyi	Vï¿½sï¿½rosnamï¿½nyi	8670	65.66
+Vasvï¿½r	jï¿½rï¿½sszï¿½khely vï¿½ros	Vas	Vasvï¿½ri	Vasvï¿½ri	4127	55.1
+Vecsï¿½s	jï¿½rï¿½sszï¿½khely vï¿½ros	Pest	Vecsï¿½si	Monori	20910	36.17
+Velence	vï¿½ros	Fejï¿½r	Gï¿½rdonyi	Gï¿½rdonyi	5359	33.37
+Vï¿½p	vï¿½ros	Vas	Szombathelyi	Szombathelyi	3358	32.89
+Veresegyhï¿½z	vï¿½ros	Pest	Gï¿½dï¿½lloi	Veresegyhï¿½zi	16892	28.56
+Verpelï¿½t	vï¿½ros	Heves	Egri	Egri	3812	53.18
+Veszprï¿½m	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Veszprï¿½m	Veszprï¿½mi	Veszprï¿½mi	64024	126.9
+Vï¿½szto	vï¿½ros	Bï¿½kï¿½s	Szeghalmi	Szeghalomi	6680	125.7
+Villï¿½ny	vï¿½ros	Baranya	Siklï¿½si	Siklï¿½si	2474	22.02
+Visegrï¿½d	vï¿½ros	Pest	Szentendrei	Szentendrei	1863	33.27
+Zï¿½hony	jï¿½rï¿½sszï¿½khely vï¿½ros	Szabolcs-Szatmï¿½r-Bereg	Zï¿½honyi	Zï¿½honyi	3978	6.96
+Zalaegerszeg	megyeszï¿½khely megyei jogï¿½ vï¿½ros	Zala	Zalaegerszegi	Zalaegerszegi	61849	102.41
+Zalakaros	vï¿½ros	Zala	Nagykanizsai	Zalakarosi	1846	17.17
+Zalalï¿½vo	vï¿½ros	Zala	Zalaegerszegi	Zalaegerszegi	3021	52.64
+Zalaszentgrï¿½t	jï¿½rï¿½sszï¿½khely vï¿½ros	Zala	Zalaszentgrï¿½ti	Zalaszentgrï¿½ti	6473	74.65
+Zamï¿½rdi	vï¿½ros	Somogy	Siï¿½foki	Siï¿½foki	2363	45.15
+Zirc	jï¿½rï¿½sszï¿½khely vï¿½ros	Veszprï¿½m	Zirci	Zirci	7096	37.4
+Zsï¿½mbï¿½k	vï¿½ros	Pest	Budakeszi	Pilisvï¿½rï¿½svï¿½ri	5480	33.66

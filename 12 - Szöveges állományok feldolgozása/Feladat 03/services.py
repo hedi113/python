@@ -55,13 +55,12 @@ def getBelowAvarage(avarage: float, players: List[Player]) -> List[Player]:
     return belowAvarage
 
 def calculateHeightDifference(avarage: float, smallPlayers: List[SmallPlayer]) -> float:
-    value: float = 0
+    heightDifferernce: smallPlayer = None
 
     for smallPlayer in smallPlayers:
-        value = value + avarage - smallPlayer.height
-        smallPlayers.append(value)
+        heightDifferernce = avarage - smallPlayer.height
 
-    return smallPlayers
+    return heightDifferernce
 
 
     

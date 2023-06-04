@@ -49,7 +49,6 @@ def readSmallPlayers(fileName2: str) -> List[SmallPlayer]:
                 smallPlayer = SmallPlayer()
                 smallPlayer.name = data[0]
                 smallPlayer.height = int(data[1])
-                smallPlayer.heightDifference = float(data[2])
 
                 smallPlayers.append(smallPlayer)
 
@@ -74,7 +73,7 @@ def writePlayersInFile(fileName: str, players: List[Player]) -> None:
     except FileNotFoundError as ex:
         print(f"{ex.filename} írásakor hiba lépett fel!")
 
-def writeSmallPlayersInFile(fileName: str, smallPlayers: List[SmallPlayer]) -> None:
+def writeSmallPlayersInFile(fileName: str, smallPlayers: List[SmallPlayer], heightDifference: float) -> None:
     
     basepath: str = os.path.dirname(os.path.abspath(__file__))
     basepath += "/output"
@@ -84,7 +83,7 @@ def writeSmallPlayersInFile(fileName: str, smallPlayers: List[SmallPlayer]) -> N
     try:
         with open(fileFullPath,encoding="utf-8", mode="w") as file:
             for smallPlayer in smallPlayers:
-                file.write(f"{smallPlayer.name} - {smallPlayer.height} : {smallPlayer.heightDifference:1.2f}\n")
+                file.write(f"{smallPlayer.name} - {smallPlayer.height} : {heightDifference:1.2f}\n")
     
     except FileNotFoundError as ex:
         print(f"{ex.filename} írásakor hiba lépett fel!")

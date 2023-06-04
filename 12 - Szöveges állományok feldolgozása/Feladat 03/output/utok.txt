@@ -1,34 +1,34 @@
-Katarzyna Skowro�ska-Dolata - 189 : �t� : lengyel : Imoco Volley
-Agnieszka Bednarek-Kasza - 185 : s�nc : lengyel : AGIL Volley
-Eleonora Dzi�kiewicz - 185 : s�nc : lengyel : Linem�r B�k�scsaba
-Anna Werbli�ska - 178 : felad� : lengyel : Fatum Ny�regyh�za
-Francesca Piccinini - 184 : �t� : olasz : Partizan
-Jaqueline Carvalho - 186 : �t� : brazil : Crvena Zvezda
-Yelizaveta Mammadova - 184 : fogat� : azer : Telekom Baku
-Szpin Ren�ta - 165 : liber� : magyar : Rabita Baku
-Tanja Matic - 178 : fogat� : szerb : Fenerbah�e Acibadem
-Robin de Kruijf - 193 : �t� : holland : Asystel Novara
-Bodn�r Dorottya - 185 : �t� : magyar : Imoco Volley
-Malgorzata Glinka-Mogentale - 191 : �t� : lengyel : AGIL Volley
-Martina Guiggi - 188 : s�nc : olasz : Linem�r B�k�scsaba
-Jovana Brakocevic - 196 : �t� : szerb : Fatum Ny�regyh�za
-Milena Ra�ic - 193 : s�nc : szerb : Partizan
-Ivana �erisilo - 185 : �t� : szerb : Crvena Zvezda
-Yekaterina Gamova - 202 : �t� : orosz : Telekom Baku
-Logan Tom - 186 : �t� : amerikai : Rabita Baku
-Marianne Steinbrecher - 188 : �t� : brazil : Fenerbah�e Acibadem
-Lioubov Sokolova Kili� - 192 : �t� : orosz : Asystel Novara
-T�las Zsuzsanna - 178 : felad� : magyar : Partizan
-Gabrielle Reece - 191 : �t� : amerikai : Crvena Zvezda
-Tha�sa Menezes - 196 : �t� : brazil : Fatum Ny�regyh�za
-G�zde Kirdar Sonsirma - 183 : fogat� : t�r�k : Telekom Baku
-Tandara Caixeta - 184 : fogat� : brazil : Linem�r B�k�scsaba
-Neslihan Demir - 187 : fogat� : t�r�k : Rabita Baku
-Cristina Chirichella - 195 : �t� : olasz : AGIL Volley
-Debby Stam-Pilon - 184 : s�nc : holland : Fenerbah�e Acibadem
-Naz Aydemir - 186 : fogat� : t�r�k : Imoco Volley
-Sabina Altynbekova - 182 : fogat� : azer : Asystel Novara
-Charlotte Leys - 184 : fogat� : belga : Besiktas
-Lise Van Hecke - 191 : fogat� : belga : Besiktas
-Anja Spasojevic - 191 : fogat� : szerb : Besiktas
-Nikola Radosov� - 186 : �t� : szlov�k : FATUM Ny�regyh�za
+Katarzyna Skowro�ska-Dolata	189	�t�	lengyel	Imoco Volley
+Agnieszka Bednarek-Kasza	185	s�nc	lengyel	AGIL Volley
+Eleonora Dzi�kiewicz	185	s�nc	lengyel	Linem�r B�k�scsaba
+Anna Werbli�ska	178	felad�	lengyel	Fatum Ny�regyh�za
+Francesca Piccinini	184	�t�	olasz	Partizan
+Jaqueline Carvalho	186	�t�	brazil	Crvena Zvezda
+Yelizaveta Mammadova	184	fogat�	azer	Telekom Baku
+Szpin Ren�ta	165	liber�	magyar	Rabita Baku
+Tanja Matic	178	fogat�	szerb	Fenerbah�e Acibadem
+Robin de Kruijf	193	�t�	holland	Asystel Novara
+Bodn�r Dorottya	185	�t�	magyar	Imoco Volley
+Malgorzata Glinka-Mogentale	191	�t�	lengyel	AGIL Volley
+Martina Guiggi	188	s�nc	olasz	Linem�r B�k�scsaba
+Jovana Brakocevic	196	�t�	szerb	Fatum Ny�regyh�za
+Milena Ra�ic	193	s�nc	szerb	Partizan
+Ivana �erisilo	185	�t�	szerb	Crvena Zvezda
+Yekaterina Gamova	202	�t�	orosz	Telekom Baku
+Logan Tom	186	�t�	amerikai	Rabita Baku
+Marianne Steinbrecher	188	�t�	brazil	Fenerbah�e Acibadem
+Lioubov Sokolova Kili�	192	�t�	orosz	Asystel Novara
+T�las Zsuzsanna	178	felad�	magyar	Partizan
+Gabrielle Reece	191	�t�	amerikai	Crvena Zvezda
+Tha�sa Menezes	196	�t�	brazil	Fatum Ny�regyh�za
+G�zde Kirdar Sonsirma	183	fogat�	t�r�k	Telekom Baku
+Tandara Caixeta	184	fogat�	brazil	Linem�r B�k�scsaba
+Neslihan Demir	187	fogat�	t�r�k	Rabita Baku
+Cristina Chirichella	195	�t�	olasz	AGIL Volley
+Debby Stam-Pilon	184	s�nc	holland	Fenerbah�e Acibadem
+Naz Aydemir	186	fogat�	t�r�k	Imoco Volley
+Sabina Altynbekova	182	fogat�	azer	Asystel Novara
+Charlotte Leys	184	fogat�	belga	Besiktas
+Lise Van Hecke	191	fogat�	belga	Besiktas
+Anja Spasojevic	191	fogat�	szerb	Besiktas
+Nikola Radosov�	186	�t�	szlov�k	FATUM Ny�regyh�za

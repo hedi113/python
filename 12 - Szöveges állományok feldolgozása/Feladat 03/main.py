@@ -27,5 +27,6 @@ writePlayersInFile("atlagnalmagasabbak.txt", aboveAvarage)
 belowAvarage = getBelowAvarage(avarage, players)
 writePlayersInFile("infok.txt", belowAvarage)
 fileName2: str = "output/infok.txt"
-calculateHeightDifference(belowAvarage, smallPlayers)
-writeSmallPlayersInFile("alacsonyak.txt", )
+smallPlayers: List[SmallPlayer] = readSmallPlayers(fileName2)
+heightDifference = calculateHeightDifference(avarage, smallPlayers)
+writeSmallPlayersInFile("alacsonyak.txt", smallPlayers, heightDifference)
