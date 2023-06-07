@@ -19,22 +19,14 @@ def autoWeightSum(autos: List[Auto]) -> int:
 
     return weightSum
 
-def determineMaxTorque(autos: List[Auto]) -> int:
-    torqueValues = []
-    for auto in autos:
-        torqueValues.append(auto.torque)
-    
-    maxTorqueValue: int = max(torqueValues)
-    return maxTorqueValue
-
-def determineBestTorque(autos: List[Auto], maxTorqueValue: int) -> Auto:
-    bestTorqueValue: Auto = autos[0]
+def getBestTorque(autos: List[Auto]) -> Auto:
+    bestTorque: Auto = autos[0]
 
     for index in range(1, len(autos), 1):
-        if(autos[index].torque == maxTorqueValue):
-            bestTorqueValue = autos[index]
-
-    return bestTorqueValue
+        if(autos[index].torque > bestTorque.torque):
+            bestTorque = autos[index]
+    
+    return bestTorque
 
 def determineSpeed(autos: List[Auto]) -> bool:
     autoSpeed: bool = False

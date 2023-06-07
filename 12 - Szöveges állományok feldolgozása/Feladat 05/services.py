@@ -20,19 +20,11 @@ def determineAllIncome(films: List[Film]) -> float:
 
     return allIncome
 
-def getMaxValue(films: List[Film]) -> int:
-    values = []
-    for film in films:
-        values.append(film.viewerRating)
-        
-    maxValue: int = max(values)
-    return maxValue
-
-def detrermineBestrating(films: List[Film], maxValue: int) -> Film:
+def detrermineBestrating(films: List[Film]) -> Film:
     bestRating: Film = films[0]
 
     for index in range(1, len(films), 1):
-        if(films[index].viewerRating == maxValue):
+        if(films[index].viewerRating > bestRating.viewerRating):
             bestRating = films[index]
 
     return bestRating

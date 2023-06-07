@@ -15,9 +15,8 @@ weightSum = autoWeightSum(autos)
 writeThingsToConsole(f"Az {fileName} állományban szerepelő autók ösz súlya {weightSum}kg.")
 
 #3. feladat
-maxTorque = determineMaxTorque(autos)
-bestTorque = determineBestTorque(autos, maxTorque)
-writeThingsToConsole(f"A legnagyobb nyomatékkal a {bestTorque.auto} rendelkezik ({maxTorque}Nm).")
+bestTorque = getBestTorque(autos)
+writeThingsToConsole(f"A legnagyobb nyomatékkal a {bestTorque.auto} rendelkezik ({bestTorque.torque}Nm).")
 
 #4. feladat
 autoSpeed = determineSpeed(autos)
