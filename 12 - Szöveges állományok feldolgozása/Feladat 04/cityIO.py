@@ -23,7 +23,7 @@ def readCitiesFromFile(fileName: str) -> List[City]:
                 city.jaras = data[3]
                 city.microRegion = data[4]
                 city.population = int(data[5])
-                city.area = float(data[6])
+                city.area = int(data[6])
 
                 cities.append(city)
         return cities
