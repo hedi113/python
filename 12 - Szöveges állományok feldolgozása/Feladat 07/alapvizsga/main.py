@@ -13,7 +13,8 @@ result = sortExamResults(grades, 1)
 printThingsToConsole(f"{result} diáknak nem sikerült az alapvizsgája.")
 
 excellentExams = getExcellentExams(grades)
-printThingsToConsole(f"Jeles eredményt elért tanulók:\n{excellentExams}")
+print(f"Jeles eredményt elért tanulók:\n")
+printListToConsole(excellentExams)
 
 average = calculateAvarage(grades)
 printThingsToConsole(f"10.a osztály átlageredménye: {average:1.2f}")

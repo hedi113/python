@@ -8,10 +8,11 @@ while(nev == None or hianyzasokSzama == 0):
         nev = input()
         if(nev == ''):
                 break
-        print("Adja meg a tanuló igazolatlan hiányzásainak számát: ", end="")
+        print(f"Adja meg {nev} igazolatlan hiányzásainak számát: ", end="")
         hianyzasokSzama = int(input())
 
-        hianyzasok(hianyzasokSzama, nev)
+        hianyzasok = hianyzasok(hianyzasokSzama)
+        print(f"{nev}: {hianyzasok}")
         nev: str = None
     
 

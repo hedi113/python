@@ -1,12 +1,12 @@
-def hianyzasok(hianyzasokSzama: int, nev: str) -> None:
+def hianyzasok(hianyzasokSzama: int) -> str:
 
     if(hianyzasokSzama >= 1 and hianyzasokSzama <= 4):
-        print(f"{nev}: figyelmeztetés")
+        return "figyelmeztetés"
     elif(hianyzasokSzama >= 5 and hianyzasokSzama <= 10):
-        print(f"{nev}: osztályfőnöki megrovás")
+        return "osztályfőnöki megrovás"
     elif(hianyzasokSzama >= 11 and hianyzasokSzama <= 30):
-        print(f"{nev}: igazgatói megrovás")
+        return "igazgatói megrovás"
     elif(hianyzasokSzama > 30):
-        print(f"{nev}: elbocsájtás az iskolából")
+        return "elbocsájtás az iskolából"
     else:
-        print(f"{nev}: nem értélmezhető")
+        return "nem értélmezhető"

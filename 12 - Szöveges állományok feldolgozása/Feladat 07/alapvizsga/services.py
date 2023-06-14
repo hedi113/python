@@ -5,6 +5,10 @@ from gradeIO import *
 def printThingsToConsole(thing: str):
     print(thing)
 
+def printListToConsole(grades: List[Grade]):
+    for grade in grades:
+        print(grade)
+
 def countGrades(grades: List[Grade]) -> int:
     allGrades: int = len(grades)
 
@@ -34,6 +38,6 @@ def calculateAvarage(grades: List[Grade]) -> float:
 
     for grade in grades:
         sumOfGrades += grade.grade
-        avarage = len(grades) / sumOfGrades
+    avarage = sumOfGrades / len(grades)
 
     return avarage
